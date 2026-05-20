@@ -1,0 +1,17 @@
+jax
+flax
+numpy<2.0
+pydantic
+typing
+pandas
+loguru
+dateparser
+pydateinfer
+pytest
+pytest-cov
+pytest-lazy-fixture
+scikit-learn
+cython
+xgboost
+optax
+tqdm

@@ -1,0 +1,1236 @@
+first,last,sex,age_cat,race,priors_count1,days_b_screening_arrest,c_charge_degree,c_charge_desc,is_recid,score_text,two_year_recid
+matthew,moore,Male,25 - 45,African-American,0.0,0.0,F,Aggravated Battery,0,Low,0
+michael,levy,Male,Greater than 45,Caucasian,1.0,-1.0,M,DUI Property Damage/Injury,0,Low,0
+abrahiem,darwish,Male,Less than 25,Caucasian,0.0,-1.0,F,Possession Of Alprazolam,1,High,1
+daniel,fosca,Male,Less than 25,Caucasian,0.0,-1.0,F,Leaving the Scene of Accident,0,Low,0
+larry,mann,Male,25 - 45,African-American,13.0,-1.0,M,Possess Cannabis/20 Grams Or Less,1,High,1
+tesa,edwards,Female,25 - 45,African-American,0.0,-1.0,F,arrest case no charge,0,Low,0
+john,mazmanian,Male,25 - 45,Caucasian,3.0,-1.0,M,Susp Drivers Lic 1st Offense,1,Low,1
+james,zevolo,Male,Less than 25,Hispanic,0.0,-1.0,F,Poss Unlaw Issue Driver Licenc,1,Low,1
+eric,mckinney,Male,Less than 25,African-American,1.0,0.0,F,Possession Of Alprazolam,1,Low,1
+antonio,jarrett,Male,25 - 45,African-American,0.0,-1.0,F,Tampering With Physical Evidence,0,Low,0
+jerel,dean,Male,Less than 25,African-American,1.0,-1.0,F,Possession Burglary Tools,0,High,0
+cassio,slowden,Male,Less than 25,Other,5.0,-1.0,M,arrest case no charge,0,Medium,0
+fred,hayes,Female,Greater than 45,African-American,14.0,-1.0,M,Battery,1,Medium,1
+ernestine,parrish,Female,Greater than 45,African-American,1.0,-1.0,F,arrest case no charge,0,Low,0
+timothy,young,Male,Greater than 45,African-American,3.0,-1.0,F,arrest case no charge,0,Low,0
+james,capers,Male,25 - 45,African-American,3.0,-1.0,M,arrest case no charge,0,High,0
+vincent,dellapi,Male,Less than 25,Caucasian,3.0,-1.0,F,Aggravated Battery / Pregnant,1,Medium,1
+william,ramos,Male,Less than 25,African-American,0.0,0.0,M,Possession of Alcohol Under 21,1,High,1
+keith,sayers,Male,25 - 45,Caucasian,15.0,-1.0,F,Possession of Cocaine,1,High,1
+jessica,brekke,Male,Less than 25,Caucasian,1.0,-1.0,F,Possession Of Alprazolam,0,Low,0
+santos,perez,Male,25 - 45,Caucasian,0.0,-1.0,F,Possession of Cocaine,0,Low,0
+issac,tisdale,Male,25 - 45,African-American,1.0,-1.0,M,Battery,0,Medium,0
+virgil,stephens,Male,Less than 25,African-American,1.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+mimmose,nicolas,Female,Greater than 45,Other,0.0,-1.0,M,Battery,0,Low,0
+jovelton,joseph,Male,25 - 45,African-American,0.0,0.0,M,Driving Under The Influence,0,Low,0
+anthony,latimore,Male,25 - 45,African-American,0.0,-1.0,F,Aggravated Battery / Pregnant,1,Low,1
+george,bein,Male,25 - 45,Caucasian,17.0,-1.0,F,Possession of Oxycodone,1,High,1
+steven,wilson,Male,Greater than 45,Caucasian,2.0,-1.0,M,arrest case no charge,1,High,0
+arlene,gonzalez,Female,25 - 45,Hispanic,5.0,0.0,F,Live on Earnings of Prostitute,0,Low,0
+edward,durizil,Male,25 - 45,African-American,3.0,0.0,F,arrest case no charge,1,Low,1
+alexander,vega,Male,Less than 25,Caucasian,0.0,-1.0,M,Grand Theft (Motor Vehicle),1,Medium,1
+stephen,jones,Male,Less than 25,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+karl,ehlen,Male,25 - 45,Caucasian,4.0,-1.0,F,Driving While License Revoked,0,Low,0
+michel,dorsainville,Male,Greater than 45,Other,4.0,-1.0,F,Grand Theft (Motor Vehicle),1,Low,1
+michael,valente,Male,25 - 45,Caucasian,1.0,-2.0,F,Possession of Cocaine,0,Medium,0
+paulo,lapa,Male,Greater than 45,Hispanic,0.0,-1.0,F,False Imprisonment,0,Low,0
+allyson,kenney,Female,25 - 45,Caucasian,1.0,-2.0,M,Driving Under The Influence,1,Medium,1
+juwan,justice,Male,25 - 45,African-American,3.0,-1.0,F,Driving While License Revoked,1,Low,1
+kasha,matthews,Female,Less than 25,African-American,0.0,0.0,F,arrest case no charge,0,Medium,0
+frantz,pierre,Male,25 - 45,African-American,2.0,-1.0,F,Driving While License Revoked,0,Medium,0
+austin,henry,Male,Less than 25,African-American,1.0,-1.0,F,Grand Theft (Motor Vehicle),1,High,1
+adiel,jaramillo,Male,Less than 25,Caucasian,3.0,-1.0,F,Manslaughter W/Weapon/Firearm,1,Medium,1
+oscar,clark,Male,25 - 45,African-American,0.0,0.0,F,Corrupt Public Servant,1,Low,1
+tommie,mims,Male,Less than 25,African-American,0.0,-1.0,F,Tampering With Physical Evidence,1,High,1
+malcom,mckenzie,Male,Less than 25,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+jasmin,negron,Female,Less than 25,Caucasian,0.0,-1.0,F,"Poss3,4 Methylenedioxymethcath",0,Medium,0
+kakeen,thomas,Female,25 - 45,African-American,13.0,0.0,F,Aggravated Assault W/dead Weap,0,High,0
+tiffany,baker,Female,Less than 25,African-American,1.0,-1.0,F,Battery on Law Enforc Officer,1,Medium,1
+derek,mcnair,Male,25 - 45,African-American,3.0,-1.0,F,Fighting/Baiting Animals,1,High,1
+juan,hawthorne,Male,25 - 45,African-American,6.0,-1.0,F,Poss Pyrrolidinovalerophenone,1,High,1
+wesley,smith,Male,Less than 25,African-American,0.0,-1.0,M,Disorderly Conduct,1,Low,1
+kareem,williams,Male,25 - 45,Other,2.0,-1.0,M,Battery,0,Low,0
+jesus,mariano,Male,25 - 45,Hispanic,10.0,-1.0,F,Driving While License Revoked,1,High,1
+charles,cocuzza,Male,Less than 25,Caucasian,0.0,-1.0,F,Grand Theft Dwell Property,1,Medium,1
+terrence,brown,Male,25 - 45,African-American,9.0,-1.0,F,Driving While License Revoked,0,Low,0
+bridgette,oberman,Female,25 - 45,Caucasian,0.0,-2.0,F,Grand Theft in the 3rd Degree,1,Low,1
+luben,augustin,Male,Less than 25,African-American,1.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+jillian,slone,Female,25 - 45,Caucasian,5.0,-29.0,F,Burglary Dwelling Assault/Batt,1,Low,0
+mercedes,richardson,Male,25 - 45,African-American,3.0,-1.0,M,arrest case no charge,1,Medium,1
+matthew,dameron,Male,25 - 45,Caucasian,2.0,3.0,F,Possession of Oxycodone,1,Low,1
+alain,williams,Male,25 - 45,African-American,6.0,-1.0,F,Felony Driving While Lic Suspd,1,Medium,1
+nikolay,petrov,Male,Greater than 45,Caucasian,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+jelissa,garcia,Male,25 - 45,Hispanic,0.0,-1.0,M,Driving Under The Influence,0,Low,0
+terrance,rogers,Male,Less than 25,African-American,6.0,-1.0,F,Uttering a Forged Instrument,1,Medium,1
+james,burns,Male,25 - 45,African-American,2.0,-1.0,M,Assault,0,Medium,0
+ronelson,stark,Male,25 - 45,Other,1.0,-1.0,F,arrest case no charge,0,Low,0
+perle,roques,Male,25 - 45,Other,0.0,-1.0,F,Agg Battery Grt/Bod/Harm,0,Low,0
+thomas,powell,Male,25 - 45,African-American,0.0,-1.0,M,Battery,1,Low,1
+trena,collier,Female,25 - 45,African-American,0.0,-1.0,F,Burglary Dwelling Assault/Batt,1,Low,1
+jack,jackson,Male,25 - 45,Caucasian,0.0,0.0,M,DUI - Enhanced,0,Low,0
+adam,diaz,Male,25 - 45,Caucasian,3.0,-1.0,F,Possession of Cocaine,1,Low,1
+bruce,myers,Male,Greater than 45,Caucasian,1.0,0.0,F,Burglary Conveyance Unoccup,1,Medium,1
+lisa,orange,Female,Greater than 45,African-American,3.0,0.0,F,False 911 Call,0,Low,0
+rose,rodriguez,Female,Less than 25,Caucasian,0.0,0.0,M,Battery,0,Medium,0
+brandon,poe,Male,25 - 45,Caucasian,0.0,-1.0,F,Manufacture Cannabis,1,Low,1
+demetrius,boyd,Male,25 - 45,African-American,5.0,0.0,M,Possess Cannabis/20 Grams Or Less,1,High,1
+tomas,rivas,Male,25 - 45,Caucasian,1.0,-1.0,M,Battery,0,Low,0
+efrain,apointe,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+iffanise,fleurinord,Female,25 - 45,African-American,0.0,-1.0,F,Cruelty Toward Child,0,Low,0
+andrew,millican,Male,25 - 45,Caucasian,6.0,0.0,M,Refuse Submit Blood/Breath Test,0,Medium,0
+adalberto,crespo,Male,25 - 45,Caucasian,4.0,-1.0,M,Battery,1,Low,1
+rainel,garciacoto,Male,25 - 45,Caucasian,2.0,-1.0,M,Battery,0,Low,0
+sara,gerald,Female,Greater than 45,African-American,0.0,0.0,F,Felony Driving While Lic Suspd,1,Medium,1
+ariana,rigaud,Female,25 - 45,African-American,4.0,-1.0,F,Possession Of Alprazolam,0,Medium,0
+anthony,stilwell,Male,25 - 45,Caucasian,2.0,-1.0,F,Possession of Cocaine,1,Medium,1
+mario,brown,Male,25 - 45,Caucasian,0.0,-1.0,F,False Imprisonment,0,Low,0
+tony,orr,Male,Less than 25,African-American,3.0,-1.0,F,Possession Burglary Tools,1,Medium,1
+timothy,law,Male,25 - 45,African-American,21.0,-14.0,F,arrest case no charge,1,High,1
+hector,contreras,Male,25 - 45,Hispanic,1.0,-1.0,M,Expired DL More Than 6 Months,0,Low,0
+vanessa,gonzalez,Female,25 - 45,Caucasian,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+stuart,tuckus,Male,Less than 25,Caucasian,1.0,-1.0,F,Possession of Cannabis,1,Medium,1
+calvin,sims,Male,Greater than 45,African-American,11.0,-1.0,F,Felony Battery w/Prior Convict,0,Low,0
+craig,johnson,Male,25 - 45,African-American,25.0,-1.0,F,Possession of Cocaine,1,High,1
+arisno,absolu,Male,25 - 45,African-American,2.0,0.0,F,Driving While License Revoked,0,Low,0
+sandra,victorremedor,Female,25 - 45,African-American,2.0,-1.0,M,Susp Drivers Lic 1st Offense,0,Medium,0
+ryan,carr,Male,Less than 25,Caucasian,0.0,-2.0,F,Possession of Cocaine,0,Low,0
+sean,mckinney,Male,25 - 45,African-American,1.0,-1.0,F,Burglary Structure Unoccup,1,Low,1
+german,valerio,Male,25 - 45,African-American,0.0,-1.0,F,Grand Theft (Motor Vehicle),0,Low,0
+renard,kitchen,Male,25 - 45,African-American,4.0,0.0,F,Aggrav Battery w/Deadly Weapon,0,Medium,0
+rabe,janvier,Male,25 - 45,African-American,0.0,-1.0,M,Assault,0,Low,0
+michael,reed,Male,25 - 45,African-American,3.0,-1.0,M,Battery,1,Low,1
+sander,ledoux,Male,Less than 25,African-American,3.0,-1.0,F,Poss Pyrrolidinovalerophenone,1,Medium,1
+elexis,garcia,Female,Greater than 45,Caucasian,4.0,0.0,F,arrest case no charge,0,Medium,0
+brent,curry,Male,25 - 45,African-American,0.0,0.0,F,Driving While License Revoked,0,Medium,0
+edson,howlett,Male,25 - 45,Caucasian,5.0,-1.0,M,Possess Cannabis/20 Grams Or Less,1,Low,1
+anthony,stephens,Male,25 - 45,African-American,11.0,0.0,F,Grand Theft (Motor Vehicle),1,Medium,1
+jason,figueroa,Male,25 - 45,Hispanic,3.0,-1.0,M,Felony Battery (Dom Strang),1,Low,1
+deandrae,counts,Male,25 - 45,African-American,8.0,-1.0,F,Carrying Concealed Firearm,1,Low,1
+richard,veach,Male,25 - 45,Caucasian,9.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,1,High,1
+michael,cunningham,Male,25 - 45,Caucasian,1.0,-3.0,F,arrest case no charge,0,Low,0
+cachaloni,frank,Male,25 - 45,Other,2.0,-1.0,M,Battery,1,Low,1
+danielle,warren,Female,Less than 25,African-American,6.0,-1.0,F,arrest case no charge,1,High,1
+frank,marrero,Male,25 - 45,Caucasian,3.0,0.0,M,Driving Under The Influence,0,Medium,0
+veronica,miller,Female,Less than 25,African-American,1.0,-28.0,F,Murder in the First Degree,0,Medium,0
+rafael,guerrero,Male,Less than 25,Caucasian,1.0,-1.0,F,Possession of Cannabis,0,Low,0
+neyesha,brunson,Female,Less than 25,African-American,2.0,16.0,F,Battery on Law Enforc Officer,1,High,1
+justin,may,Male,Less than 25,Caucasian,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+derek,modrok,Male,25 - 45,Caucasian,3.0,0.0,F,Solicitation On Felony 3 Deg,1,Medium,1
+philip,milton,Male,25 - 45,Caucasian,5.0,-1.0,F,Possession of Cocaine,1,Low,1
+nicholas,higgins,Male,25 - 45,Caucasian,0.0,-1.0,M,DUI Level 0.15 Or Minor In Veh,0,Low,0
+eusebio,diaz acosta,Male,Greater than 45,Hispanic,0.0,0.0,F,Grand Theft in the 1st Degree,0,Low,0
+luis,leyba,Male,Greater than 45,Hispanic,9.0,-1.0,F,Felony Petit Theft,1,High,1
+gerald,pena,Male,Less than 25,Hispanic,1.0,-1.0,M,Possess Cannabis/20 Grams Or Less,1,Medium,1
+joseph,levins,Male,25 - 45,African-American,14.0,-1.0,M,Battery,1,High,1
+mark,marchant,Male,25 - 45,Caucasian,5.0,-1.0,F,Felony Driving While Lic Suspd,0,Low,0
+tanisha,benjamin,Female,25 - 45,African-American,3.0,-27.0,F,Burglary With Assault/battery,0,Medium,0
+heather,gregory,Female,Less than 25,Caucasian,0.0,-1.0,F,Possession Of Methamphetamine,0,Medium,0
+wanglee,george,Male,25 - 45,African-American,0.0,0.0,M,Battery,0,Low,0
+adam,rosario,Male,Less than 25,Caucasian,1.0,-1.0,M,Battery,0,Low,0
+christopher,mcewan,Male,25 - 45,African-American,0.0,0.0,M,Possess Cannabis/20 Grams Or Less,1,Low,1
+antonio,walker,Male,25 - 45,African-American,27.0,-1.0,M,Battery,0,Medium,0
+jennifer,kemp,Female,Greater than 45,Caucasian,0.0,-1.0,F,Battery on Law Enforc Officer,1,High,1
+oscar,andrews,Male,Greater than 45,African-American,14.0,-1.0,M,Battery,0,Medium,0
+sean,foley,Male,25 - 45,Caucasian,4.0,0.0,F,Grand Theft in the 3rd Degree,1,High,1
+shakera,collins,Female,25 - 45,African-American,2.0,-1.0,F,Battery on Law Enforc Officer,1,High,1
+flaviano,leon,Male,Greater than 45,Hispanic,0.0,-3.0,M,DUI Level 0.15 Or Minor In Veh,0,Low,0
+pathelin,felix,Male,25 - 45,Other,2.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+scott,kaplan,Male,Greater than 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+cornell,fullard,Male,Greater than 45,African-American,14.0,23.0,F,arrest case no charge,1,High,1
+joanne,evans,Female,25 - 45,Caucasian,0.0,0.0,M,Driving License Suspended,1,Medium,1
+christopher,haye,Male,25 - 45,African-American,0.0,-1.0,F,Burglary Unoccupied Dwelling,0,Low,0
+thery,cineus,Male,25 - 45,Other,0.0,-1.0,M,Battery,0,Low,0
+james,archibald,Male,Less than 25,African-American,11.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+dewayne,curry,Male,Less than 25,African-American,2.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+michael,clermont,Male,25 - 45,Caucasian,0.0,-1.0,M,Petit Theft,1,Medium,1
+vicki,stokes,Female,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Medium,0
+craig,coleman,Male,25 - 45,African-American,0.0,0.0,M,Assault,0,Low,0
+omar,wallace,Male,25 - 45,African-American,6.0,-1.0,F,Driving While License Revoked,1,High,1
+joseph,torres,Male,25 - 45,Caucasian,2.0,-2.0,M,Battery,0,Low,0
+inger,kirkeleit,Female,Greater than 45,Caucasian,1.0,0.0,M,DUI Level 0.15 Or Minor In Veh,0,Low,0
+brandon,kelly,Male,Less than 25,African-American,0.0,-1.0,F,Possession Burglary Tools,1,Low,1
+benjamin,feast,Male,Greater than 45,African-American,6.0,-1.0,F,Felony Petit Theft,0,Medium,0
+norberto,garcia,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+fatima,johnson,Female,25 - 45,African-American,4.0,-13.0,F,arrest case no charge,0,Low,0
+jorge,aziles,Male,Less than 25,African-American,0.0,-1.0,M,Resist/Obstruct W/O Violence,0,High,0
+fabio,viana,Male,25 - 45,Caucasian,0.0,0.0,F,Possession of Cocaine,0,Low,0
+timara,wimber,Female,25 - 45,African-American,0.0,-1.0,M,Battery,1,Low,1
+andre,eaton,Male,25 - 45,Other,2.0,0.0,F,"Poss3,4 Methylenedioxymethcath",0,Low,0
+kymar,forchin,Male,25 - 45,Other,0.0,-1.0,M,Solic to Commit Battery,1,Low,1
+thomas,purvis,Male,25 - 45,Caucasian,1.0,-1.0,F,Possession of Cocaine,0,Medium,0
+ryan,chambers,Male,25 - 45,Other,4.0,-1.0,M,Reckless Driving,1,High,1
+alexsis,perkins,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,1,Low,1
+barbara,mitchell,Female,Greater than 45,Caucasian,5.0,-3.0,F,,0,Low,0
+scott,kaplan,Male,Greater than 45,Caucasian,4.0,-1.0,F,Felony Driving While Lic Suspd,1,Low,1
+ferondo,randall,Male,25 - 45,African-American,5.0,0.0,F,arrest case no charge,1,Medium,1
+aaron,gilliam,Male,25 - 45,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,High,0
+robert,grady,Male,Greater than 45,Caucasian,2.0,-15.0,M,DUI Level 0.15 Or Minor In Veh,1,Low,1
+linda,lebrun,Female,25 - 45,African-American,5.0,-1.0,F,Driving While License Revoked,1,Low,1
+david,guitar,Male,Greater than 45,Caucasian,3.0,-1.0,F,Felony Battery (Dom Strang),0,Low,0
+mary,davis,Female,25 - 45,African-American,0.0,0.0,F,Felony Battery (Dom Strang),0,Low,0
+jocelyn,ducardy,Male,25 - 45,African-American,7.0,-1.0,F,Felony Driving While Lic Suspd,0,Low,0
+lerome,smith,Male,Less than 25,African-American,1.0,-1.0,F,arrest case no charge,1,Medium,1
+jeffery,reynolds,Male,25 - 45,African-American,7.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+brenda,plummer,Female,Greater than 45,African-American,7.0,-1.0,F,Possession of Cocaine,0,Low,0
+mourica,evans,Female,25 - 45,Other,0.0,-1.0,M,Viol Injunct Domestic Violence,0,Low,0
+chevroy,hamil,Male,25 - 45,Other,6.0,-1.0,M,Battery,1,Low,1
+christian,ayers,Male,Less than 25,Caucasian,0.0,0.0,M,Viol Injunct Domestic Violence,0,Low,0
+zulma,ramos,Female,25 - 45,Hispanic,2.0,-7.0,M,arrest case no charge,0,Low,0
+dillon,degiovanni,Male,Less than 25,Caucasian,1.0,-1.0,F,Burglary Unoccupied Dwelling,0,Low,0
+michael,gardner,Male,25 - 45,Caucasian,0.0,-1.0,M,DUI Property Damage/Injury,0,Low,0
+christopher,johnston,Male,Greater than 45,African-American,7.0,-1.0,F,Felony Petit Theft,1,Medium,0
+constance,jorden,Female,25 - 45,African-American,0.0,-1.0,M,Battery,1,Low,1
+taro,beneby,Male,Less than 25,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+veron,coleman,Male,25 - 45,African-American,1.0,0.0,F,"Poss 3,4 MDMA (Ecstasy)",1,Low,1
+cindy,guerrier,Female,25 - 45,African-American,3.0,0.0,F,Driving While License Revoked,1,Low,1
+colin,jones,Male,Less than 25,African-American,0.0,-1.0,M,Battery,1,Low,1
+joe,sanders,Male,25 - 45,African-American,1.0,0.0,M,Battery,0,Low,0
+gavin,simpson,Male,25 - 45,Other,2.0,-1.0,F,Felony Driving While Lic Suspd,1,Low,1
+calvin,stephens,Male,25 - 45,African-American,6.0,0.0,M,arrest case no charge,1,High,1
+angie,luti,Female,25 - 45,Caucasian,0.0,-1.0,M,Driving Under The Influence,0,Low,0
+zeke,zikria,Male,Greater than 45,Caucasian,0.0,-1.0,F,Possession of Cocaine,1,Low,0
+ricky,farlow,Male,Less than 25,African-American,3.0,20.0,F,arrest case no charge,1,Medium,1
+jonathan,christman,Male,Less than 25,Caucasian,1.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+leon,glen,Male,25 - 45,African-American,0.0,0.0,F,"Poss3,4 Methylenedioxymethcath",0,Low,0
+diane,gay,Female,Greater than 45,Caucasian,1.0,-7.0,M,Petit Theft,0,Low,0
+elizabeth,carlson,Female,Greater than 45,Caucasian,2.0,-1.0,F,Possession of Cocaine,0,Low,0
+ashley,garris,Female,25 - 45,African-American,3.0,-1.0,F,arrest case no charge,1,Low,1
+michael,kuruvilla,Male,Greater than 45,Other,1.0,-25.0,M,Battery,0,Low,0
+arthur,sweeting,Male,Less than 25,African-American,6.0,-19.0,F,Burglary Unoccupied Dwelling,1,High,1
+leroy,anglin,Male,25 - 45,African-American,6.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+kathy,floris,Female,Greater than 45,Caucasian,1.0,-3.0,M,DUI Property Damage/Injury,0,Low,0
+kyle,sharp,Male,25 - 45,Caucasian,0.0,-2.0,M,DUI Property Damage/Injury,0,Low,0
+christopher,denis,Male,25 - 45,African-American,15.0,-1.0,F,"Poss3,4 Methylenedioxymethcath",1,High,1
+gina,paez,Female,Greater than 45,Hispanic,1.0,-1.0,M,Battery,0,Low,0
+eric,ramsey,Male,Less than 25,African-American,1.0,-1.0,F,Pos Methylenedioxymethcath W/I/D/S,1,Medium,1
+norman,bushay,Male,Less than 25,African-American,0.0,0.0,F,Grand Theft in the 3rd Degree,0,Low,0
+stephen,hill,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+willie,morris,Male,Less than 25,African-American,1.0,-10.0,M,Battery,1,Low,1
+raymond,siggins,Male,25 - 45,Caucasian,11.0,-1.0,F,Felony Battery w/Prior Convict,0,High,0
+mikemsonn,michaud,Male,25 - 45,Other,0.0,-1.0,M,Battery,0,Low,0
+emily,diana,Female,Greater than 45,Caucasian,1.0,-30.0,M,Battery,0,Low,0
+ian,ford,Male,25 - 45,African-American,1.0,-1.0,F,Burglary Conveyance Unoccup,0,High,0
+angel,franco,Male,25 - 45,Caucasian,0.0,0.0,M,Driving Under The Influence,0,Low,0
+samantha,caicedo,Female,Less than 25,Caucasian,6.0,0.0,F,Poss Contr Subst W/o Prescript,1,High,1
+max,connolly,Male,25 - 45,Caucasian,1.0,-1.0,M,DUI Property Damage/Injury,0,Low,0
+evens,pericles,Male,Greater than 45,African-American,0.0,0.0,M,Poss Of RX Without RX,0,Low,0
+marquis,rodriguez,Male,Less than 25,Hispanic,0.0,0.0,M,Battery,0,Low,0
+shakennea,baker,Female,25 - 45,African-American,0.0,0.0,M,Battery,0,Low,0
+david,levy,Male,25 - 45,Caucasian,3.0,-14.0,F,Possession of Cocaine,0,Low,0
+bobby,cook,Male,Greater than 45,Caucasian,6.0,0.0,F,Aggravated Battery / Pregnant,0,Low,0
+jemmal,cameron,Male,25 - 45,African-American,14.0,-1.0,F,Felony Driving While Lic Suspd,1,High,1
+genny,robbins,Female,Less than 25,Caucasian,1.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,0,Low,0
+brandon,jimenez,Male,Less than 25,Caucasian,3.0,0.0,F,Possession of Cocaine,1,Medium,1
+richard,lindo,Male,Greater than 45,African-American,6.0,0.0,F,Att Tamper w/Physical Evidence,0,Low,0
+daniel,crescenti,Male,Less than 25,Caucasian,0.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+vanessa,vedrine,Male,25 - 45,African-American,3.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+kevin,williams,Male,25 - 45,African-American,3.0,0.0,F,Carrying Concealed Firearm,0,Low,0
+sean,delegal,Male,Less than 25,Caucasian,2.0,-1.0,F,arrest case no charge,0,Low,0
+wilny,marc,Male,25 - 45,African-American,0.0,-1.0,F,Grand Theft (Motor Vehicle),0,Low,0
+christopher,mejia,Male,Less than 25,African-American,7.0,-1.0,M,Battery,0,High,0
+henson,thomas,Male,Greater than 45,African-American,0.0,-1.0,F,Aggravated Battery (Firearm/Actual Possession),0,Low,0
+lewis,lynn,Male,25 - 45,African-American,0.0,0.0,F,Driving While License Revoked,0,Low,0
+daniel,levy,Male,25 - 45,African-American,1.0,-23.0,F,Burglary Structure Unoccup,1,Low,1
+michael,higgins,Male,Greater than 45,Caucasian,0.0,-3.0,M,Prowling/Loitering,0,Low,0
+amy,gildon,Female,25 - 45,Caucasian,7.0,-18.0,M,arrest case no charge,0,Medium,0
+azell,moreland,Male,Greater than 45,African-American,11.0,-1.0,F,arrest case no charge,0,High,0
+aaron,hammond,Male,25 - 45,Caucasian,2.0,-12.0,M,Prowling/Loitering,1,Medium,1
+jamie,fabre,Male,25 - 45,Caucasian,3.0,0.0,M,Battery,0,High,0
+robert,larkins,Male,Greater than 45,African-American,4.0,0.0,F,arrest case no charge,0,High,0
+ricardo,philibert,Male,25 - 45,African-American,1.0,-1.0,F,Purchase Cannabis,0,Low,0
+seymour,brown,Male,25 - 45,African-American,0.0,0.0,F,Aggrav Battery w/Deadly Weapon,0,Low,0
+gary,hrinda,Male,25 - 45,Caucasian,0.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+thomas,styles,Male,Greater than 45,African-American,3.0,-1.0,F,False Ownership Info/Pawn Item,1,Low,1
+christopher,cordell,Male,25 - 45,Caucasian,2.0,-25.0,F,Possession of Cocaine,1,Medium,1
+neil,heckart,Male,25 - 45,Caucasian,6.0,-1.0,F,Driving While License Revoked,1,Medium,1
+valerie,corker,Female,Less than 25,African-American,3.0,-1.0,M,PL/Unlaw Use Credit Card,1,Medium,1
+bertram,cooper,Male,25 - 45,African-American,3.0,-20.0,M,Viol Pretrial Release Dom Viol,1,High,1
+james,dameus,Male,25 - 45,African-American,7.0,-1.0,F,arrest case no charge,0,Low,0
+carlos,delcid,Male,Less than 25,Hispanic,1.0,-12.0,F,arrest case no charge,1,High,0
+james,zebo,Male,Less than 25,African-American,1.0,-1.0,F,Dealing in Stolen Property,1,Low,1
+damian,fletcher,Male,25 - 45,African-American,3.0,-1.0,M,Resist Officer w/Violence,1,Medium,1
+deangelo,perpall,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Unoccupied Dwelling,1,High,1
+robert,sandholzer,Male,Less than 25,Caucasian,1.0,-1.0,M,Battery,0,Medium,0
+keon,lamar,Male,Less than 25,African-American,3.0,-1.0,F,Battery on a Person Over 65,1,Medium,0
+mchason,laguerre,Male,25 - 45,African-American,20.0,-1.0,F,Grand Theft (Motor Vehicle),1,High,1
+melinda,delions,Female,Greater than 45,African-American,4.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+lanette,garcia,Female,25 - 45,Caucasian,2.0,-1.0,F,arrest case no charge,0,Low,0
+mathew,miranda,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+roxana,ebanks,Female,Greater than 45,Hispanic,0.0,0.0,M,DUI Level 0.15 Or Minor In Veh,0,Low,0
+roselia,scott,Female,Greater than 45,African-American,0.0,-1.0,F,Aggravated Assault W/Dead Weap,0,Low,0
+carl,sidney,Male,Less than 25,African-American,2.0,-1.0,M,Battery,1,Low,1
+nikeisha,porter,Female,25 - 45,African-American,2.0,-1.0,F,Burglary With Assault/battery,0,Low,0
+dale,heck,Male,Greater than 45,African-American,5.0,-1.0,F,Lewd or Lascivious Molestation,1,Low,1
+tenetta,woodruff,Female,25 - 45,Native American,5.0,-1.0,F,Use of Anti-Shoplifting Device,1,Medium,1
+kelvin,solomon,Male,25 - 45,African-American,0.0,0.0,F,Felony Driving While Lic Suspd,1,Low,1
+jazmin,gonzalez,Female,Less than 25,Hispanic,0.0,-2.0,M,Battery,0,Low,0
+chantel,fleurima,Male,Less than 25,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+willie,butler,Male,Greater than 45,African-American,3.0,0.0,F,Felony Driving While Lic Suspd,0,Medium,0
+jermaine,westbrook,Male,25 - 45,African-American,10.0,-4.0,F,Deliver Cocaine,1,High,1
+matthew,jordan,Male,25 - 45,Caucasian,2.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+james,amboise,Male,Less than 25,African-American,0.0,0.0,F,Burglary Unoccupied Dwelling,1,Medium,1
+antonio,lytle,Male,25 - 45,African-American,0.0,-1.0,M,Battery,1,Low,1
+jatez,blount,Male,25 - 45,African-American,7.0,-1.0,F,Attempted Deliv Control Subst,1,Medium,1
+tracy,gallagher,Male,Greater than 45,Caucasian,3.0,0.0,M,Reckless Driving,1,Low,1
+jamil,moreland,Male,Less than 25,African-American,0.0,-1.0,F,Deliver Cocaine,1,Medium,1
+etienne,dozil,Male,Less than 25,African-American,0.0,-1.0,F,Dealing in Stolen Property,0,Medium,0
+kenneth,scott,Male,25 - 45,Caucasian,2.0,0.0,M,Battery,0,Low,0
+chandra,hintz,Male,25 - 45,Caucasian,5.0,-1.0,F,Battery on Law Enforc Officer,0,Low,0
+dalton,lewis,Male,Less than 25,Caucasian,1.0,0.0,F,Possession of Cannabis,0,High,0
+yolani,moratz,Female,25 - 45,Caucasian,4.0,-10.0,M,Battery,1,Medium,1
+vandivuiet,williams,Male,Less than 25,African-American,1.0,-1.0,F,Battery on Law Enforc Officer,1,High,1
+johnny,toussaint,Male,25 - 45,Other,0.0,-1.0,F,Throw In Occupied Dwell,0,Low,0
+elias,losada,Male,25 - 45,Caucasian,4.0,-1.0,F,"Deliver 3,4 Methylenediox",1,Medium,1
+mitchell,haire,Male,25 - 45,Caucasian,0.0,0.0,F,"Deliver 3,4 Methylenediox",1,High,1
+troy,smith,Male,Less than 25,African-American,1.0,0.0,M,Battery,1,Low,1
+jeffrey,telsaint,Male,Less than 25,African-American,1.0,-1.0,F,Burglary Conveyance Unoccup,1,High,1
+ricardo,calderon,Male,25 - 45,Hispanic,1.0,-1.0,F,Possession of Oxycodone,0,Low,0
+ronald,castaneda,Male,Greater than 45,Hispanic,1.0,0.0,F,Driving While License Revoked,0,Low,0
+angeles,etienne,Male,Less than 25,Other,0.0,-1.0,F,Burglary Structure Unoccup,1,Medium,1
+orlis,deltoro,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+terryann,mcdonald,Female,25 - 45,Other,4.0,-27.0,F,arrest case no charge,1,Medium,1
+bradley,royes,Male,25 - 45,African-American,19.0,0.0,F,arrest case no charge,1,High,0
+keyon,bolden,Male,Less than 25,African-American,3.0,-1.0,F,Grand Theft (Motor Vehicle),1,High,1
+britanya,lewis,Female,25 - 45,African-American,3.0,-1.0,F,arrest case no charge,0,Medium,0
+melissa,bennett,Female,25 - 45,Caucasian,7.0,-30.0,F,False Ownership Info/Pawn Item,1,Medium,1
+kimberly,rodriguez,Female,25 - 45,Hispanic,1.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+odean,lawrence,Male,25 - 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+onique,williams,Male,25 - 45,Other,1.0,-1.0,F,Felony Driving While Lic Suspd,1,Low,1
+john,moore,Male,Greater than 45,African-American,15.0,-1.0,F,Driving While License Revoked,1,Medium,1
+jeffrey,orys,Male,Less than 25,African-American,1.0,-1.0,F,Burglary Conveyance Unoccup,1,High,1
+adam,magazinik,Male,Less than 25,Caucasian,0.0,-2.0,F,Pos Cannabis W/Intent Sel/Del,0,Low,0
+brooks,nunez,Male,Less than 25,Caucasian,1.0,0.0,M,Battery,1,Low,1
+jameel,brinson,Male,Less than 25,African-American,2.0,0.0,M,Battery,1,High,1
+asim,hamin,Male,25 - 45,African-American,8.0,-1.0,F,Felony Battery (Dom Strang),1,Medium,1
+kevin,abreu,Male,25 - 45,Caucasian,1.0,0.0,F,arrest case no charge,1,Low,1
+terrance,murphy,Male,25 - 45,African-American,8.0,0.0,M,Opert With Susp DL 2nd Offens,1,Low,1
+derrick,powell,Male,25 - 45,African-American,14.0,-1.0,F,Possession of Cocaine,1,High,1
+braden,hampton,Male,25 - 45,Caucasian,12.0,-1.0,F,False Ownership Info/Pawn Item,0,Medium,0
+glenn,williams,Male,25 - 45,African-American,2.0,-1.0,F,Tampering With Physical Evidence,1,High,1
+patrick,keane,Male,Greater than 45,Caucasian,2.0,-1.0,M,Tresspass Struct/Conveyance,0,Low,0
+david,campbell,Male,25 - 45,African-American,7.0,0.0,F,arrest case no charge,1,High,1
+damond,craig,Male,25 - 45,African-American,2.0,-1.0,F,Driving While License Revoked,0,Low,0
+ruth,fullerton,Female,25 - 45,Other,0.0,-1.0,M,Battery,1,Low,1
+gregory,thornton,Male,Greater than 45,Caucasian,1.0,-10.0,M,Battery,0,Low,0
+brandy,jones,Female,25 - 45,African-American,1.0,-3.0,F,Fail To Redeliv Hire/Leas Prop,0,Medium,0
+david,schultz,Male,Greater than 45,African-American,3.0,-1.0,M,Battery,0,Low,0
+yvon,gaspard,Male,Less than 25,African-American,0.0,-1.0,F,Robbery / No Weapon,1,High,1
+morris,atkins,Male,25 - 45,African-American,0.0,-1.0,F,Felony Battery (Dom Strang),1,Low,1
+jason,reid,Male,25 - 45,African-American,4.0,-1.0,F,Fleeing Or Attmp Eluding A Leo,0,Low,0
+michael,fleming,Male,Greater than 45,African-American,11.0,-1.0,F,Possession of Cocaine,0,Low,0
+randy,huffman,Male,Greater than 45,Caucasian,3.0,0.0,M,Viol Injunction Protect Dom Vi,0,Low,0
+edwin,mtei,Male,25 - 45,African-American,1.0,-1.0,M,arrest case no charge,1,Low,1
+nelson,cajas,Male,25 - 45,Hispanic,11.0,0.0,M,Battery,0,Medium,0
+ryan,whittaker,Male,25 - 45,Other,13.0,-1.0,F,Deliver Cannabis,1,High,1
+timothy,bass,Male,25 - 45,African-American,6.0,-1.0,F,Poss of Methylethcathinone,0,Low,0
+lynell,freeman,Female,Greater than 45,African-American,1.0,-1.0,F,Possession of Cocaine,0,Low,0
+douglas,eaton,Male,Greater than 45,Caucasian,1.0,-4.0,F,Sexual Performance by a Child,0,Low,0
+dino,salerno,Male,Greater than 45,Caucasian,7.0,-1.0,F,Burglary Conveyance Unoccup,1,Low,1
+victoria,hay,Female,Greater than 45,Caucasian,2.0,-1.0,F,Grand Theft in the 3rd Degree,0,High,0
+ernest,ford,Male,25 - 45,African-American,7.0,0.0,F,Possession of Cocaine,1,Medium,1
+breon,brown,Male,Less than 25,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+ignacio,beguiristain,Male,25 - 45,Caucasian,0.0,0.0,M,DUI Property Damage/Injury,0,Low,0
+tyler,gay,Male,Less than 25,Caucasian,3.0,-8.0,M,arrest case no charge,0,Medium,0
+andrew,riggins,Male,Less than 25,African-American,7.0,-1.0,F,arrest case no charge,1,Medium,1
+abigail,pomales,Female,25 - 45,Caucasian,2.0,-1.0,M,Battery,0,Low,0
+deandre,fleury,Male,Less than 25,African-American,1.0,-1.0,F,Robbery / No Weapon,1,High,0
+vincent,green,Male,25 - 45,African-American,1.0,-1.0,M,Burglary Unoccupied Dwelling,0,Medium,0
+steven,vigo,Male,25 - 45,Hispanic,3.0,0.0,F,arrest case no charge,0,Low,0
+christopher,amity,Male,Greater than 45,Caucasian,10.0,-1.0,F,Fleeing Or Attmp Eluding A Leo,0,Low,0
+shane,rhoden,Male,25 - 45,African-American,5.0,-1.0,M,Aggravated Battery,0,Medium,0
+joshua,colon,Male,25 - 45,Caucasian,0.0,-1.0,F,Possession of Cocaine,0,Low,0
+ronnie,wilson,Male,25 - 45,African-American,2.0,-1.0,F,Possession of Benzylpiperazine,0,Medium,0
+brunsweck,jeanpierre,Male,25 - 45,African-American,0.0,-1.0,F,Burglary Unoccupied Dwelling,0,Medium,0
+bradley,rodriguez,Male,Less than 25,Hispanic,0.0,-1.0,F,Burglary Conveyance Unoccup,1,Low,1
+timothy,vanfossen,Male,25 - 45,Caucasian,1.0,-1.0,M,Susp Drivers Lic 1st Offense,1,Medium,1
+stephanie,coello,Male,25 - 45,Caucasian,1.0,-1.0,F,Aggravated Assault w/Firearm,0,Medium,0
+jennifer,crowe,Female,25 - 45,Caucasian,0.0,-3.0,F,Child Abuse,0,Low,0
+bruce,davis,Male,Greater than 45,African-American,0.0,-1.0,F,Att Burgl Struc/Conv Dwel/Occp,0,Low,0
+dominique,akins,Female,25 - 45,Caucasian,3.0,0.0,F,Driving While License Revoked,0,Medium,0
+anthony,macias,Male,Less than 25,Caucasian,1.0,-1.0,M,Battery,1,Low,1
+samantha,zachary,Female,Less than 25,Caucasian,0.0,-1.0,M,Battery,1,Medium,1
+yoandy,vidal,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+kelly,lestrade,Male,Greater than 45,African-American,0.0,0.0,M,Soliciting For Prostitution,0,Low,0
+patricia,yates,Female,Greater than 45,Caucasian,0.0,-1.0,M,Disorderly Conduct,0,Low,0
+alfonso,quesada,Male,Greater than 45,Hispanic,1.0,-12.0,F,arrest case no charge,0,Low,0
+jesus,zacarias,Male,25 - 45,Hispanic,0.0,0.0,F,Felony Battery (Dom Strang),0,Low,0
+adam,rivera,Male,25 - 45,Hispanic,1.0,-1.0,M,Viol Injunct Domestic Violence,0,Medium,0
+deanna,rodriguez,Female,25 - 45,Caucasian,6.0,-1.0,M,Petit Theft,1,High,1
+jack,brown,Male,Greater than 45,African-American,3.0,-1.0,M,Resist/Obstruct W/O Violence,1,Low,1
+krystal,patterson,Female,25 - 45,African-American,4.0,-1.0,F,arrest case no charge,0,Low,0
+brenda,inman,Female,Greater than 45,Caucasian,6.0,0.0,M,Theft/To Deprive,0,Medium,0
+damian,francis,Male,25 - 45,African-American,4.0,-9.0,F,arrest case no charge,0,Low,0
+diego,rocha,Male,25 - 45,Other,1.0,-1.0,M,Battery,1,Low,1
+kirk,myrie,Male,Less than 25,Other,2.0,-1.0,M,Resist/Obstruct W/O Violence,0,Medium,0
+livingstone,wright,Male,25 - 45,African-American,3.0,-1.0,F,Carrying Concealed Firearm,1,Low,0
+danny,alford,Male,Less than 25,African-American,13.0,-1.0,F,Poss Cntrft Contr Sub w/Intent,1,High,1
+jessica,baron,Female,25 - 45,Caucasian,0.0,0.0,F,Resist Officer w/Violence,1,Low,1
+darryl,fuentes,Male,Less than 25,African-American,8.0,-1.0,F,Possession of Cocaine,1,Medium,1
+brittany,shenett,Male,25 - 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+edgar,cisneros,Male,25 - 45,Caucasian,0.0,-1.0,F,Use Computer for Child Exploit,0,Low,0
+dantonio,frazier,Male,25 - 45,African-American,6.0,-1.0,M,Battery,0,Low,0
+roosevelt,kiser,Male,25 - 45,African-American,0.0,0.0,M,DUI Level 0.15 Or Minor In Veh,1,Low,1
+devion,ford,Male,25 - 45,African-American,3.0,0.0,F,arrest case no charge,1,Low,1
+robert,fox,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+clarence,jackson,Male,Greater than 45,African-American,19.0,-1.0,F,Possession of Cocaine,0,Medium,0
+usbel,ferdinand,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Structure Unoccup,1,Medium,1
+abdul,leiba,Male,25 - 45,African-American,3.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+lawrence,williams,Male,Less than 25,African-American,2.0,-1.0,F,"Poss3,4 Methylenedioxymethcath",0,Low,0
+ronald,singletary,Male,25 - 45,African-American,5.0,-1.0,F,Driving While License Revoked,0,Low,0
+james,reeves,Male,25 - 45,Caucasian,4.0,-1.0,F,Uttering a Forged Instrument,0,Medium,0
+donald,jorden,Male,Less than 25,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+ricardo,centurion,Male,25 - 45,Hispanic,0.0,-1.0,F,Felony Battery (Dom Strang),0,Low,0
+antonio,young,Male,Greater than 45,African-American,9.0,0.0,F,arrest case no charge,1,Medium,1
+justin,nowell,Male,25 - 45,African-American,7.0,-1.0,F,Possession of Cocaine,1,Low,0
+brent,spoonemore,Male,25 - 45,Caucasian,2.0,0.0,F,arrest case no charge,1,Low,1
+carl,myers,Male,25 - 45,African-American,6.0,0.0,M,Resist/Obstruct W/O Violence,1,Medium,1
+silvio,lopez,Male,Greater than 45,Hispanic,1.0,-2.0,M,Disorderly Intoxication,0,Low,0
+nelson,zuniga,Male,25 - 45,Caucasian,0.0,0.0,M,Susp Drivers Lic 1st Offense,0,Low,0
+anthony,freeman,Male,25 - 45,African-American,20.0,0.0,F,Driving While License Revoked,0,High,0
+marco,logatti,Male,25 - 45,Hispanic,7.0,0.0,F,arrest case no charge,0,Medium,0
+deandre,smith,Male,Less than 25,African-American,1.0,-1.0,F,Burglary Unoccupied Dwelling,1,Medium,1
+dwayne,means,Male,Less than 25,African-American,0.0,-1.0,F,Deliver Cannabis,0,Medium,0
+gordon,smith,Male,25 - 45,African-American,12.0,0.0,F,Possession of Cocaine,1,High,1
+kristina,hughes,Female,25 - 45,African-American,0.0,-1.0,M,Opert With Susp DL 2nd Offens,0,High,0
+jonathan,cleare,Male,25 - 45,African-American,0.0,-1.0,F,Computer Pornography,0,Low,0
+huy,trinh,Male,25 - 45,Asian,1.0,-1.0,F,arrest case no charge,0,Low,0
+christopher,jordan,Male,25 - 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+herbert,johnson,Male,Greater than 45,African-American,8.0,-22.0,F,Possession of Cocaine,1,Low,1
+brian,cali,Male,Greater than 45,Caucasian,2.0,-1.0,M,Battery,1,Low,1
+laurence,stevens,Female,25 - 45,Other,0.0,0.0,M,Battery,0,Low,0
+ameer,badal,Male,Less than 25,Caucasian,0.0,-2.0,M,Battery,0,Low,0
+roger,cooper,Male,25 - 45,African-American,1.0,-1.0,M,Assault,1,Medium,1
+jeffrey,richardson,Male,25 - 45,African-American,0.0,-1.0,M,Resist/Obstruct W/O Violence,0,Medium,0
+duane,stephan,Male,Greater than 45,Caucasian,3.0,0.0,M,Battery,0,Low,0
+marco,ibanez,Male,25 - 45,Hispanic,8.0,-8.0,F,Possession of Morphine,1,Low,1
+edwin,oliva,Male,Less than 25,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+diamond,adamson,Female,Less than 25,African-American,0.0,0.0,M,Battery,1,Medium,1
+ladarius,blue,Male,25 - 45,African-American,5.0,-1.0,F,Aggrav Battery w/Deadly Weapon,1,Medium,1
+douglas,duarte,Male,25 - 45,Hispanic,0.0,-1.0,M,Battery,0,Low,0
+brisley,pierre,Male,25 - 45,African-American,5.0,-1.0,F,Agg Assault W/int Com Fel Dome,0,Low,0
+crystal,sylvester,Female,Less than 25,African-American,1.0,-6.0,F,arrest case no charge,0,Low,0
+tegray,whilby,Male,25 - 45,African-American,3.0,0.0,M,Battery,1,Low,1
+deandre,miller,Male,Less than 25,African-American,3.0,0.0,F,arrest case no charge,1,Medium,1
+marshall,jacobs,Male,25 - 45,Caucasian,10.0,-1.0,F,Crlty Twrd Child Urge Oth Act,1,Medium,1
+robby,allen,Male,Less than 25,African-American,0.0,-1.0,F,Felony Battery,1,High,1
+laura,elsy,Female,25 - 45,African-American,2.0,-1.0,M,Battery,0,Low,0
+naiboby,castro,Male,25 - 45,Hispanic,4.0,-1.0,F,False Imprisonment,1,Low,1
+allan,cross,Male,Greater than 45,Caucasian,1.0,-1.0,M,Battery,0,Low,0
+jamal,brown,Male,25 - 45,African-American,1.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+mary,oneal,Female,Greater than 45,African-American,0.0,0.0,M,Battery,0,Low,0
+karl,weimar,Male,Greater than 45,Caucasian,1.0,-13.0,M,Battery,0,Low,0
+stiven,alexis,Male,Less than 25,African-American,0.0,-2.0,M,Possess Drug Paraphernalia,1,Low,1
+kim,anthony,Female,Greater than 45,Caucasian,6.0,-13.0,F,arrest case no charge,0,Low,0
+willie,sims,Male,25 - 45,African-American,11.0,-1.0,M,Battery,1,High,1
+jacob,samp,Male,25 - 45,Caucasian,0.0,-1.0,F,Possession of Cocaine,1,Low,1
+vivaldo,mascarenhas,Male,Less than 25,African-American,1.0,-27.0,M,arrest case no charge,1,Low,1
+jose,gomez,Male,25 - 45,Hispanic,1.0,-1.0,M,Battery,0,Low,0
+suzette,tillit,Male,25 - 45,Other,3.0,-1.0,M,Battery,1,Low,1
+michael,chance,Male,25 - 45,African-American,2.0,-1.0,M,Battery,1,Low,1
+jim,beausejour,Male,25 - 45,African-American,1.0,-1.0,F,False Imprisonment,0,High,0
+kevin,bynes,Male,25 - 45,African-American,8.0,-1.0,M,Unlaw Use False Name/Identity,1,Medium,1
+benny,evans,Male,Greater than 45,Caucasian,0.0,0.0,M,Battery,1,Low,1
+travis,johnson,Male,25 - 45,African-American,0.0,-1.0,M,Viol Injunction Protect Dom Vi,1,Low,1
+traci,sapp,Male,25 - 45,African-American,1.0,0.0,F,Crim Use of Personal ID Info,1,Low,0
+giovanni,iglesias,Male,Less than 25,Caucasian,4.0,-1.0,M,Battery,1,Low,1
+malachi,wilson,Male,Greater than 45,African-American,10.0,-3.0,F,Possession of Cocaine,1,Low,1
+lee,wright,Male,25 - 45,African-American,1.0,-1.0,M,Battery,0,Medium,0
+brandon,boone,Male,25 - 45,African-American,8.0,-1.0,F,arrest case no charge,1,High,1
+randell,williams,Male,Less than 25,Caucasian,4.0,-1.0,M,Assault,1,High,1
+jeffrey,anderson,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,1,Low,1
+george,esteves,Male,25 - 45,Caucasian,5.0,0.0,M,Lve/Scen/Acc/Veh/Prop/Damage,0,Low,0
+youvens,horace,Male,Less than 25,Other,7.0,0.0,F,Carrying Concealed Firearm,1,Medium,1
+alfredo,rasco,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+michael,woodson,Male,Less than 25,Caucasian,4.0,-1.0,M,Battery,1,Medium,1
+jalandon,love,Male,Less than 25,African-American,0.0,-1.0,M,Battery,0,Low,0
+angel,navarro,Male,Less than 25,Caucasian,0.0,0.0,F,"Poss3,4 Methylenedioxymethcath",0,Low,0
+eric,francois,Male,25 - 45,African-American,1.0,-5.0,M,Battery,0,Low,0
+steven,cooper,Male,Greater than 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+douglas,bergman,Male,Greater than 45,Caucasian,1.0,-1.0,F,Fel Drive License Perm Revoke,0,Low,0
+saul,carrion,Male,25 - 45,Hispanic,3.0,-21.0,F,Possession of Cocaine,0,Low,0
+kentravian,knox,Male,Less than 25,African-American,0.0,-1.0,F,Attempted Robbery  No Weapon,0,High,0
+anthony,pirolo,Male,25 - 45,Caucasian,0.0,0.0,M,Battery,0,Low,0
+terrance,moye,Male,25 - 45,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+teshane,jemmott,Male,Less than 25,African-American,2.0,-1.0,M,Battery,1,High,1
+khalid,abukablan,Male,Greater than 45,Asian,0.0,-1.0,F,Aggravated Assault W/dead Weap,0,Low,0
+termell,prigeon,Male,25 - 45,African-American,2.0,-1.0,M,Battery,1,Medium,1
+amon,brasher,Male,25 - 45,Caucasian,2.0,-21.0,F,Possession Of Heroin,0,Low,0
+brandon,rogers,Male,25 - 45,Caucasian,2.0,0.0,F,Tamper With Witness/Victim/CI,1,Low,1
+derrick,hepburn,Male,25 - 45,African-American,1.0,-6.0,F,arrest case no charge,0,Low,0
+sarrah,pierre,Female,25 - 45,African-American,7.0,-1.0,F,Deliver Cocaine 1000FT Store,0,Low,0
+parris,brady,Male,Greater than 45,African-American,0.0,0.0,M,Battery,1,Low,1
+jonathan,danovich,Male,25 - 45,Caucasian,6.0,-1.0,F,Uttering a Forged Instrument,1,Low,1
+janoi,turner,Male,25 - 45,African-American,5.0,-1.0,F,Aggravated Battery / Pregnant,0,Medium,0
+teresa,hoagland,Male,Greater than 45,Caucasian,0.0,0.0,M,Battery,0,Low,0
+jacob,johnson,Male,Less than 25,African-American,12.0,0.0,F,Possession of Cocaine,1,High,1
+christopher,baptista,Male,25 - 45,Hispanic,0.0,-7.0,M,Reckless Driving,0,Low,0
+john,walsh,Male,Greater than 45,Caucasian,12.0,-24.0,M,Possess Cannabis/20 Grams Or Less,0,Medium,0
+glenroy,powell,Male,25 - 45,African-American,6.0,-1.0,F,Drivg While Lic Suspd/Revk/Can,0,Low,0
+xavier,johnson,Male,Less than 25,African-American,2.0,-1.0,F,Burglary Conveyance Unoccup,1,Low,1
+janel,denicola,Female,Less than 25,Caucasian,0.0,-2.0,F,Introduce Contraband Into Jail,0,Low,0
+jesus,valencia,Male,25 - 45,Caucasian,2.0,-1.0,F,Felony Battery (Dom Strang),0,Low,0
+casey,herard,Female,25 - 45,African-American,4.0,-1.0,F,Possession of Cocaine,0,Medium,0
+david,suarez,Male,Less than 25,Hispanic,0.0,-3.0,M,Possess Cannabis/20 Grams Or Less,0,High,0
+daniele,santos,Male,25 - 45,Caucasian,0.0,0.0,F,Battery on a Person Over 65,0,Low,0
+reyaz,blackett,Male,25 - 45,Other,4.0,-1.0,F,Agg Battery Grt/Bod/Harm,1,Low,1
+randy,jewel,Male,Less than 25,African-American,5.0,-1.0,F,Tampering With Physical Evidence,1,High,1
+adrian,bowling,Male,25 - 45,African-American,0.0,0.0,F,Possession of Cocaine,0,Low,0
+ryan,bassaragh,Male,Less than 25,African-American,0.0,0.0,F,"Poss3,4 Methylenedioxymethcath",0,Low,0
+jacky,voltaire,Male,Less than 25,African-American,0.0,-3.0,F,Battery on Law Enforc Officer,0,Low,0
+corey,ackerman,Male,25 - 45,Caucasian,0.0,-2.0,M,Battery,0,Low,0
+renardo,clark,Male,25 - 45,African-American,13.0,-1.0,F,Possession Of Carisoprodol,1,High,1
+raymond,thompson,Male,Greater than 45,Caucasian,3.0,-23.0,F,Tampering With Physical Evidence,1,Low,1
+broderick,joffe,Male,25 - 45,Caucasian,1.0,-1.0,F,Poss Pyrrolidinovalerophenone,1,Low,1
+steve,rosewell,Male,Greater than 45,Other,7.0,-1.0,F,Carrying Concealed Firearm,0,Low,0
+latonya,griffin,Female,25 - 45,African-American,1.0,-1.0,F,Possession Of Amphetamine,0,Low,0
+kelby,contreras,Male,25 - 45,Hispanic,0.0,-1.0,M,Battery,0,Low,0
+bobby,sturdivant,Male,Greater than 45,African-American,3.0,-1.0,F,arrest case no charge,0,Low,0
+silvio,paulino,Male,25 - 45,Caucasian,0.0,-1.0,F,Possession Of Methamphetamine,0,Low,0
+marvin,robins,Male,Less than 25,African-American,2.0,-1.0,F,Burglary Unoccupied Dwelling,0,High,0
+andrew,calderaro,Male,Greater than 45,Caucasian,23.0,-1.0,F,Felony Petit Theft,1,High,1
+heriberto,castro,Male,Less than 25,Caucasian,3.0,-1.0,M,Battery,0,Low,0
+kiet,ho,Male,Greater than 45,Asian,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+renet,gabriel,Male,Less than 25,African-American,1.0,0.0,F,Pos Cannabis W/Intent Sel/Del,1,High,1
+steven,nance,Male,25 - 45,African-American,5.0,-1.0,M,Aggravated Assault W/dead Weap,1,High,0
+jorge,moreno,Male,Greater than 45,Hispanic,1.0,-11.0,F,Possession Burglary Tools,0,Low,0
+evelyn,rivera,Female,Greater than 45,Caucasian,0.0,0.0,M,Battery,0,Low,0
+brian,semil,Male,25 - 45,African-American,21.0,-1.0,F,Driving While License Revoked,1,High,0
+robert,bianco,Male,Greater than 45,Caucasian,1.0,-1.0,F,Aggravated Assault w/Firearm,0,Low,0
+tiffany,reid,Female,25 - 45,African-American,4.0,-7.0,F,arrest case no charge,1,High,1
+keon,johnson,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Conveyance Unoccup,0,Medium,0
+crystal,hernandez,Female,Less than 25,Caucasian,0.0,-1.0,M,Driving Under The Influence,1,Medium,1
+kenneth,whittaker,Male,25 - 45,Caucasian,4.0,0.0,F,Aggrav Battery w/Deadly Weapon,1,Low,1
+keandre,owens,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Unoccupied Dwelling,1,Medium,1
+charles,laurie,Male,Greater than 45,Caucasian,3.0,-1.0,F,Felony Battery w/Prior Convict,0,Low,0
+tony,lucien,Male,25 - 45,African-American,5.0,-1.0,M,arrest case no charge,0,Medium,0
+christopher,patterson,Male,25 - 45,African-American,22.0,0.0,F,arrest case no charge,1,High,1
+joseph,sessa,Male,25 - 45,Caucasian,0.0,0.0,M,DUI Property Damage/Injury,0,Low,0
+sean,martin,Male,Greater than 45,African-American,6.0,0.0,F,Possession Of Alprazolam,0,Low,0
+kristi,chudicek,Female,25 - 45,Caucasian,0.0,-2.0,M,Battery,0,Low,0
+zackary,salamone,Male,Less than 25,Caucasian,0.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,0,Medium,0
+eclaire,salomon,Male,25 - 45,African-American,8.0,-1.0,M,Susp Drivers Lic 1st Offense,0,High,0
+lester,lueyoung,Male,25 - 45,African-American,1.0,0.0,F,Pos Cannabis W/Intent Sel/Del,1,Medium,1
+luis,fernandez,Male,25 - 45,Hispanic,0.0,-1.0,F,Uttering a Forged Instrument,0,Low,0
+albeiro,munoz,Male,25 - 45,Hispanic,1.0,-1.0,M,Battery,0,Low,0
+courtney,tracey,Male,25 - 45,African-American,3.0,-1.0,F,Driving While License Revoked,0,Low,0
+jonathan,rahm,Male,Less than 25,Caucasian,1.0,-1.0,F,Del Cannabis For Consideration,0,Medium,0
+jeffrey,sims,Male,Greater than 45,African-American,4.0,-4.0,F,Possession of Cocaine,0,Medium,0
+haveard,cobb,Male,Less than 25,African-American,1.0,-1.0,M,Battery,1,Low,1
+tyrell,wright,Male,25 - 45,African-American,3.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+latavyia,tucker,Female,25 - 45,African-American,1.0,-1.0,F,Aggrav Battery w/Deadly Weapon,0,Medium,0
+ahmad,james,Male,25 - 45,African-American,12.0,-1.0,F,Felony Driving While Lic Suspd,0,Medium,0
+adrian,mendieta,Male,Less than 25,Caucasian,0.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,0,Low,0
+dakota,gregory,Male,Less than 25,Caucasian,1.0,0.0,F,Deliver Cannabis,1,Medium,1
+matthew,graf,Male,25 - 45,Caucasian,4.0,0.0,M,Battery,0,Low,0
+brian,williams,Male,Greater than 45,African-American,2.0,-1.0,M,Carry Open/Uncov Bev In Pub,0,Medium,0
+jason,olreidge,Male,Less than 25,African-American,0.0,-1.0,M,Battery,0,High,0
+victoria,boone,Female,25 - 45,Caucasian,3.0,0.0,F,Poss Pyrrolidinovalerophenone,1,Low,1
+zandra,haywood,Female,25 - 45,African-American,0.0,-1.0,F,Poss Contr Subst W/o Prescript,0,Low,0
+christina,sargent,Female,25 - 45,Caucasian,2.0,-1.0,F,Possession of Cocaine,1,High,1
+keenan,watson,Male,25 - 45,African-American,2.0,-1.0,F,arrest case no charge,1,Medium,0
+christina,parker,Female,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+melinda,white,Female,Less than 25,African-American,0.0,0.0,F,Possession of Hydrocodone,0,Medium,0
+thomas,herring,Male,25 - 45,Caucasian,3.0,0.0,F,Possession of Cocaine,0,Low,0
+karen,darnell,Female,25 - 45,Caucasian,5.0,16.0,F,Grand Theft in the 3rd Degree,0,High,0
+maria,garcia,Female,Greater than 45,Hispanic,2.0,0.0,M,Battery,0,Low,0
+jamie,anderson,Female,25 - 45,Caucasian,2.0,-29.0,F,Poss Contr Subst W/o Prescript,0,Low,0
+judy,fleurimond,Female,25 - 45,African-American,0.0,-1.0,F,Aggrav Battery w/Deadly Weapon,0,Low,0
+daniel,martins,Male,Less than 25,African-American,0.0,-2.0,F,Burglary Conveyance Armed,0,Low,0
+ernest,reed,Male,Greater than 45,Caucasian,1.0,-1.0,F,Agg Battery Grt/Bod/Harm,1,Medium,1
+jennifer,ingham,Female,25 - 45,Caucasian,7.0,-1.0,F,arrest case no charge,1,Medium,1
+gian,cardona,Male,Less than 25,Hispanic,0.0,-1.0,F,Aggravated Assault W/dead Weap,1,High,1
+kerby,joseph,Male,25 - 45,African-American,0.0,-1.0,M,Battery,1,Low,1
+lovett,shazier,Male,25 - 45,African-American,8.0,-1.0,F,Felony Petit Theft,1,Medium,1
+rochilun,manasse,Male,Greater than 45,Other,0.0,-1.0,M,Viol Injunct Domestic Violence,0,Low,0
+lorraine,rivera,Female,25 - 45,Caucasian,3.0,-1.0,M,Battery,0,Medium,0
+henry,perez-betancur,Male,Less than 25,Hispanic,0.0,-1.0,M,Leaving Acc/Unattended Veh,0,Medium,0
+tara,ketola,Female,25 - 45,Caucasian,1.0,-1.0,F,Possession of Cocaine,0,Low,0
+walter,rojas,Male,25 - 45,Caucasian,0.0,-1.0,M,Driving License Suspended,0,Low,0
+cheryl,smith,Female,Greater than 45,Caucasian,0.0,-1.0,F,Battery on Law Enforc Officer,1,Low,1
+derek,huffman,Male,25 - 45,Caucasian,0.0,-1.0,M,Viol Injunct Domestic Violence,0,Low,0
+michael,mora,Male,25 - 45,Hispanic,2.0,-1.0,F,Kidnapping / Domestic Violence,1,Low,1
+everett,corbin,Male,Less than 25,African-American,2.0,-1.0,F,Resist Officer w/Violence,1,High,1
+grace,alvarado,Female,25 - 45,Hispanic,0.0,-1.0,F,Aggrav Battery w/Deadly Weapon,1,Low,1
+akeel,franklin,Male,Less than 25,African-American,0.0,-1.0,F,Deliver Cannabis 1000FTSch,1,Medium,1
+lafrance,telon,Male,25 - 45,African-American,1.0,-1.0,F,Poss Unlaw Issue Driver Licenc,0,High,0
+sean,fleming,Male,25 - 45,African-American,15.0,-1.0,F,arrest case no charge,0,Medium,0
+roshod,graham,Male,Less than 25,African-American,0.0,-1.0,F,Grand Theft (Motor Vehicle),0,Medium,0
+brandon,williams,Male,25 - 45,African-American,5.0,-1.0,F,Aggrav Child Abuse-Agg Battery,1,High,1
+shamika,conyers,Female,25 - 45,African-American,5.0,-1.0,F,Agg Battery Grt/Bod/Harm,1,High,1
+rosa,zacariasreyes,Male,25 - 45,Hispanic,2.0,0.0,M,Driving Under The Influence,0,Low,0
+ralph,wessells,Male,Greater than 45,Caucasian,0.0,-1.0,F,arrest case no charge,1,Low,1
+jack,pierre-louis,Male,Greater than 45,Other,1.0,-21.0,F,Aggravated Assault W/Dead Weap,0,Low,0
+darren,walters,Male,Less than 25,African-American,3.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+jared,aldoroty,Male,25 - 45,African-American,8.0,0.0,F,Corrupt Public Servant,1,Medium,1
+gary,karp,Male,Greater than 45,Caucasian,2.0,-4.0,M,Refuse Submit Blood/Breath Test,1,Low,1
+chad,waldrep,Male,25 - 45,Caucasian,3.0,-1.0,M,Battery,1,Medium,1
+storm,tillman,Male,25 - 45,African-American,6.0,-1.0,F,Felony Petit Theft,1,Low,1
+kevin,edwards,Male,25 - 45,African-American,4.0,-1.0,F,Grand Theft (Motor Vehicle),1,High,1
+darren,mcbride,Male,25 - 45,African-American,5.0,-1.0,F,Poss Meth/Diox/Meth/Amp (MDMA),1,High,1
+boston,johnson,Male,25 - 45,African-American,1.0,-1.0,M,Battery,1,Medium,1
+devaughn,bryan,Male,25 - 45,African-American,2.0,-1.0,F,Possession of Cannabis,0,Medium,0
+teresa-marie,holness,Female,Less than 25,African-American,0.0,-1.0,M,Battery,0,Medium,0
+donarth,harris,Male,25 - 45,Other,1.0,-1.0,F,Carrying Concealed Firearm,0,Low,0
+john,mompremier,Male,Greater than 45,African-American,4.0,-8.0,F,arrest case no charge,0,Low,0
+jonathan,king,Male,Less than 25,African-American,1.0,-1.0,F,Battery on Law Enforc Officer,1,Medium,1
+margaret,idowu,Female,25 - 45,African-American,2.0,0.0,F,Failure To Return Hired Vehicle,0,Low,0
+timothy,mccann,Male,25 - 45,Caucasian,1.0,-1.0,F,Possession of Cocaine,1,Medium,1
+quakiiya,tigner,Female,Less than 25,African-American,1.0,-1.0,F,Uttering a Forged Instrument,1,Medium,1
+joe,porter,Male,25 - 45,African-American,9.0,-1.0,F,Poss Contr Subst W/o Prescript,1,Medium,1
+james,liantonio,Male,25 - 45,Caucasian,1.0,-1.0,F,arrest case no charge,0,Low,0
+christopher,agapay,Male,25 - 45,Caucasian,5.0,-1.0,F,Felony Driving While Lic Suspd,0,Low,0
+deshawn,isaac,Male,Less than 25,African-American,0.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,1,Medium,1
+vladimir,ducard,Male,25 - 45,African-American,5.0,-1.0,M,Driving License Suspended,0,Low,0
+cameron,berry,Male,25 - 45,Caucasian,1.0,-1.0,M,Opert With Susp DL 2nd Offens,1,Low,1
+denny,ricatti,Female,25 - 45,Caucasian,2.0,-1.0,F,Possession of Cannabis,0,Low,0
+jeffrey,forrest,Male,25 - 45,African-American,23.0,0.0,F,Poss Pyrrolidinovalerophenone,1,High,1
+johnnie,randell,Female,Greater than 45,African-American,3.0,0.0,F,Aggravated Assault W/Dead Weap,0,Low,0
+timothy,peterson,Male,Greater than 45,Caucasian,1.0,-1.0,F,arrest case no charge,0,Low,0
+amy,royer,Female,25 - 45,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+angie,morales,Female,Less than 25,Caucasian,0.0,-2.0,F,Del Cannabis For Consideration,1,Medium,1
+shane,bohannon,Male,Greater than 45,Caucasian,1.0,0.0,F,Possession of Cocaine,0,Low,0
+linton,cooper,Male,25 - 45,African-American,3.0,-1.0,F,Aiding Escape,1,Low,1
+faris,roperto,Female,25 - 45,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,High,0
+brenda,hernandez,Female,Less than 25,Caucasian,0.0,-1.0,M,Leaving Acc/Unattended Veh,0,Medium,0
+joshua,edmond,Male,25 - 45,African-American,2.0,-1.0,M,Possess Cannabis/20 Grams Or Less,0,Medium,0
+patrick,yerkovich,Male,25 - 45,Caucasian,0.0,-1.0,F,"Poss3,4 Methylenedioxymethcath",1,Medium,1
+tina,james,Female,25 - 45,Other,1.0,-24.0,M,arrest case no charge,0,Medium,0
+carl,lovett,Male,25 - 45,African-American,4.0,-1.0,M,arrest case no charge,0,Low,0
+javon,jacobs,Male,25 - 45,African-American,0.0,-1.0,M,Viol Prot Injunc Repeat Viol,0,Medium,0
+jovan,larrieux,Male,25 - 45,African-American,1.0,-1.0,M,Battery,1,Low,1
+joshua,brey,Male,25 - 45,African-American,3.0,-1.0,F,arrest case no charge,1,Medium,1
+roland,voltaire,Male,Greater than 45,Other,0.0,-1.0,M,Battery,0,Low,0
+kevin,ellis,Male,25 - 45,African-American,6.0,0.0,F,Crim Use of Personal ID Info,1,Medium,1
+christopher,tippett,Male,Greater than 45,Caucasian,1.0,-11.0,M,Disorderly Conduct,0,Low,0
+wilfredo,alejo-dominguez,Male,25 - 45,Hispanic,0.0,0.0,M,Operating W/O Valid License,0,Low,0
+james,pardee,Male,25 - 45,Caucasian,2.0,-1.0,F,Corrupt Public Servant,1,Low,1
+darryl,harden,Male,25 - 45,African-American,6.0,-1.0,F,Possession Burglary Tools,1,High,1
+christian,johnson,Male,25 - 45,Caucasian,1.0,-4.0,F,Pos Cannabis W/Intent Sel/Del,0,Low,0
+travis,battle,Male,25 - 45,African-American,27.0,-1.0,M,Battery,1,High,1
+malcolm,simmons,Male,Less than 25,African-American,0.0,-1.0,F,Leaving the Scene of Accident,0,Low,0
+herman,hankerson,Male,25 - 45,African-American,13.0,-1.0,F,Possession of Cocaine,1,High,1
+emigdio,rodriguez,Male,25 - 45,Caucasian,4.0,-1.0,M,Viol Injunct Domestic Violence,1,Medium,1
+adrian,williams,Male,25 - 45,African-American,8.0,0.0,M,Battery,1,Medium,1
+oliver,johnkins,Male,Greater than 45,African-American,14.0,-1.0,F,Possession of Cocaine,1,High,1
+joshua,morales,Male,25 - 45,Hispanic,6.0,-1.0,M,Battery,1,Medium,1
+keanne,sibblies,Female,25 - 45,African-American,0.0,-1.0,F,Burglary Conveyance Unoccup,0,Low,0
+david,jeanpierre,Male,25 - 45,Other,0.0,-1.0,F,Crim Use of Personal ID Info,1,Low,1
+lamont,cummings,Male,Less than 25,African-American,3.0,0.0,M,Battery,1,High,1
+dante,capezzuto,Male,25 - 45,Caucasian,11.0,-1.0,F,Deliver Cannabis,1,High,1
+bach,ketant,Male,25 - 45,African-American,0.0,-2.0,M,Battery,0,Low,0
+justine,woodward,Female,Less than 25,Caucasian,0.0,-1.0,M,Battery,0,Medium,0
+denise,jackson-minott,Female,25 - 45,African-American,0.0,0.0,M,Battery,0,Low,0
+gabriel,araujo,Male,25 - 45,Hispanic,3.0,-1.0,F,Possession of Cannabis,1,Medium,1
+ricoh,smith,Male,25 - 45,African-American,3.0,-1.0,F,Att Burgl Unoccupied Dwel,1,High,1
+michael,lux,Male,25 - 45,Caucasian,5.0,-1.0,F,Possession Of Heroin,1,Low,1
+christopher,bazard,Male,Less than 25,African-American,1.0,-24.0,F,Grand Theft in the 3rd Degree,1,Low,1
+kishu,ramsay,Male,25 - 45,African-American,1.0,0.0,F,Felony Driving While Lic Suspd,0,Low,0
+wessley,cruzmolina,Male,Less than 25,Caucasian,1.0,-1.0,F,arrest case no charge,0,Low,0
+brian,allen,Male,Greater than 45,African-American,7.0,-1.0,F,Felony Driving While Lic Suspd,0,Low,0
+alyssa,garcia,Female,25 - 45,Caucasian,3.0,-1.0,F,Possession Of Alprazolam,1,Medium,1
+adriano,suarez,Male,Greater than 45,Hispanic,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+dustin,graham,Male,25 - 45,Caucasian,0.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+britton,blackwood,Male,Less than 25,African-American,2.0,0.0,F,Tampering With Physical Evidence,1,High,1
+fred,holmes,Male,25 - 45,African-American,0.0,0.0,F,Driving While License Revoked,0,Low,0
+keith,plews,Male,25 - 45,Caucasian,3.0,-1.0,F,arrest case no charge,1,Low,1
+kevin,eason,Male,Less than 25,African-American,1.0,0.0,F,Unauth Poss ID Card or DL,1,Medium,1
+angie,hupp,Female,25 - 45,Caucasian,9.0,2.0,M,Petit Theft,1,Low,1
+rolfi,hernandez,Male,25 - 45,Hispanic,0.0,0.0,M,Solic to Commit Battery,0,Low,0
+venson,joseph,Male,25 - 45,African-American,0.0,-1.0,F,Aggravated Assault W/Dead Weap,0,Low,0
+shaka,ruddock,Male,Less than 25,African-American,0.0,-1.0,M,Susp Drivers Lic 1st Offense,1,Low,1
+christopher,harris,Male,25 - 45,African-American,4.0,-1.0,F,arrest case no charge,1,Low,1
+carlo,marra,Male,Greater than 45,Caucasian,7.0,-1.0,F,arrest case no charge,1,Low,0
+dominique,dent,Female,25 - 45,Caucasian,1.0,-1.0,M,Battery,1,Medium,1
+reshaud,bowens,Male,Less than 25,African-American,7.0,-1.0,F,Aggravated Battery / Pregnant,1,High,1
+thomas,carter,Male,Greater than 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+marta,lopes,Female,25 - 45,Other,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+rocco,rombardo,Male,25 - 45,Caucasian,3.0,-1.0,M,Viol Prot Injunc Repeat Viol,0,Medium,0
+jonathan,gordon,Male,25 - 45,Caucasian,2.0,-27.0,F,Possession Of Heroin,1,Low,1
+jamie,rosen,Male,Greater than 45,Caucasian,0.0,0.0,F,Possession Of Alprazolam,1,Low,0
+gymmy,justin,Male,25 - 45,African-American,2.0,-1.0,F,Aggrav Battery w/Deadly Weapon,0,Low,0
+jose,ramos-otero,Male,Greater than 45,Hispanic,0.0,-7.0,M,Viol Injunct Domestic Violence,0,Low,0
+doshan,felix,Female,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+lindell,mcfadden,Male,Greater than 45,African-American,20.0,0.0,F,Possession of Cocaine,1,Medium,1
+john,gorczyca,Male,Greater than 45,Caucasian,4.0,-27.0,M,Disorderly Intoxication,0,Low,0
+shalaun,dean,Male,25 - 45,African-American,1.0,-1.0,F,Possession Burglary Tools,1,Medium,1
+alton,roberts,Male,25 - 45,African-American,8.0,-1.0,M,Battery,1,High,1
+imad,farah,Male,25 - 45,Caucasian,1.0,0.0,F,arrest case no charge,0,Low,0
+reneca,turner-davis,Female,25 - 45,African-American,0.0,0.0,M,Prostitution/Lewd Act Assignation,0,Low,0
+kortney,coleman,Female,25 - 45,Caucasian,0.0,0.0,M,Battery,0,Low,0
+alicia,heeralal,Female,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+carlos,gonzalez,Male,25 - 45,Hispanic,2.0,-1.0,M,Battery,0,Low,0
+tercel,reckley,Male,Less than 25,Other,0.0,-1.0,M,Burglary Dwelling Occupied,1,Low,1
+steven,butler,Male,Less than 25,African-American,0.0,-1.0,F,Deliver Cannabis,0,Medium,0
+mark,frances,Male,Greater than 45,African-American,1.0,-1.0,M,Possess Cannabis/20 Grams Or Less,1,Low,1
+latisha,tillman,Male,Less than 25,African-American,1.0,-1.0,F,Battery on Law Enforc Officer,1,Low,1
+kevis,woodard,Male,25 - 45,African-American,0.0,-1.0,F,Possession of Cocaine,1,High,1
+emanuel,scott,Male,25 - 45,African-American,2.0,-1.0,F,arrest case no charge,0,Medium,0
+sidney,perkins,Male,Greater than 45,Caucasian,0.0,0.0,F,Possession Of Alprazolam,0,Low,0
+juan,guacaneme,Male,25 - 45,Caucasian,1.0,-1.0,F,Burglary Conveyance Unoccup,0,Low,0
+robert,newton,Male,25 - 45,Caucasian,1.0,0.0,F,arrest case no charge,0,Low,0
+carlos,lara,Male,25 - 45,Hispanic,0.0,-1.0,F,Possession of Cannabis,0,Low,0
+darling,madrano,Male,25 - 45,Caucasian,0.0,0.0,M,Possess Cannabis/20 Grams Or Less,0,Low,0
+linda,mashaw,Female,Greater than 45,Caucasian,0.0,-6.0,F,Aggrav Battery w/Deadly Weapon,0,Low,0
+shinell,baxterskeffrey,Female,25 - 45,Other,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+shawn,williams,Male,25 - 45,African-American,1.0,-1.0,M,Battery,1,Medium,0
+wayne,stover,Male,25 - 45,African-American,0.0,-1.0,M,Manage Busn W/O City Occup Lic,0,Low,0
+leroy,tyler,Male,25 - 45,African-American,4.0,0.0,F,Felony Battery w/Prior Convict,1,Low,1
+stevenson,charles,Male,25 - 45,Other,1.0,-1.0,F,Fraudulent Use of Credit Card,0,Low,0
+jacqueline,garcia,Female,Greater than 45,Caucasian,6.0,-1.0,F,Possession of Cocaine,1,Medium,1
+alexander,laute,Male,Less than 25,Caucasian,3.0,-1.0,F,arrest case no charge,1,Low,1
+omar,santiago,Male,25 - 45,Caucasian,0.0,0.0,M,Susp Drivers Lic 1st Offense,1,Low,0
+lloy,phillips,Female,25 - 45,African-American,0.0,-1.0,M,Exposes Culpable Negligence,0,Low,0
+kelli,smith,Female,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+victor,rozier,Male,25 - 45,African-American,16.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+anthony,smith,Male,25 - 45,Caucasian,1.0,-1.0,F,arrest case no charge,1,Medium,1
+nesta,elliot,Male,25 - 45,African-American,1.0,0.0,F,"Poss3,4 Methylenedioxymethcath",1,Low,1
+james,coleman,Male,25 - 45,African-American,4.0,0.0,M,Viol Pretrial Release Dom Viol,1,Medium,1
+marcus,russell,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Dwelling Armed,1,Low,1
+adam,gillstrap,Male,25 - 45,Caucasian,2.0,-1.0,F,arrest case no charge,1,Low,1
+eric,sparks,Male,Less than 25,African-American,2.0,-1.0,M,arrest case no charge,1,Low,1
+daritte,bonner,Female,Less than 25,African-American,0.0,-1.0,F,Carrying Concealed Firearm,1,Low,1
+jaime,bedoya,Male,25 - 45,Caucasian,0.0,-1.0,F,Aggravated Assault W/Dead Weap,0,Low,0
+rafael,lopez,Male,Greater than 45,Hispanic,8.0,-1.0,F,Felony Petit Theft,0,Medium,0
+julio,rodriguez,Male,25 - 45,Hispanic,1.0,0.0,M,Battery,0,Low,0
+jamie,osorio,Male,Greater than 45,Hispanic,3.0,-1.0,F,Driving While License Revoked,0,Low,0
+henry,nesbitt,Male,Greater than 45,Caucasian,7.0,-1.0,F,Felony Driving While Lic Suspd,1,Low,1
+charles,major,Male,25 - 45,African-American,4.0,-26.0,M,Battery,0,Low,0
+jon,lamore,Male,25 - 45,Caucasian,2.0,-1.0,F,Possession of Cocaine,0,Medium,0
+jean,elma,Male,Less than 25,African-American,2.0,0.0,F,Pos Cannabis W/Intent Sel/Del,1,High,1
+theova,milfort,Male,Greater than 45,Other,0.0,-1.0,F,Neglect Child / No Bodily Harm,0,Low,0
+francine,jackson,Female,Greater than 45,Caucasian,4.0,-11.0,F,arrest case no charge,0,Low,0
+charniece,hill,Female,Less than 25,African-American,0.0,-1.0,F,Resist Officer w/Violence,1,Medium,1
+james,render,Male,Less than 25,African-American,0.0,-5.0,F,Dealing in Stolen Property,1,Low,1
+gerard,fowler,Male,Greater than 45,Other,0.0,-1.0,F,Structuring Transactions,0,Low,0
+timothey,shimko,Male,25 - 45,Caucasian,7.0,-1.0,F,Felony Battery,1,High,1
+leroy,farley,Male,Greater than 45,African-American,9.0,0.0,F,Burglary Structure Unoccup,1,Medium,1
+efrain,morales,Male,25 - 45,Hispanic,0.0,-3.0,M,Petit Theft $100- $300,0,Medium,0
+herbert,lindsey,Male,Greater than 45,African-American,4.0,0.0,M,Battery,0,Low,0
+altero,lawrence,Male,25 - 45,African-American,18.0,0.0,F,Grand Theft (Motor Vehicle),1,High,1
+timothy,edwards,Male,25 - 45,African-American,3.0,0.0,F,Felony Battery (Dom Strang),1,Low,1
+jay,fisher,Male,25 - 45,Caucasian,1.0,0.0,F,arrest case no charge,0,Medium,0
+sayon,hamilton,Male,Less than 25,African-American,1.0,0.0,F,Grand Theft (Motor Vehicle),1,Medium,1
+wilfred,conille,Male,25 - 45,African-American,3.0,-1.0,M,Battery,0,Medium,0
+lecharles,coakley,Male,25 - 45,African-American,29.0,-1.0,F,Poss Contr Subst W/o Prescript,1,High,1
+martin,chauncey,Male,Greater than 45,Caucasian,1.0,-2.0,F,Possession Of Alprazolam,1,Low,1
+sean,gibboney,Male,25 - 45,Caucasian,8.0,-28.0,F,Possession of Oxycodone,1,High,1
+zakendra,gary,Male,Less than 25,African-American,2.0,-1.0,M,Littering,1,High,1
+donald,hutchinson,Male,Less than 25,African-American,0.0,0.0,F,Aggrav Battery w/Deadly Weapon,1,Medium,1
+rodquez,lovett,Male,Less than 25,African-American,1.0,-20.0,F,arrest case no charge,0,Medium,0
+geoffrey,salesman,Male,25 - 45,African-American,0.0,-1.0,F,Burglary Dwelling Assault/Batt,0,Low,0
+alexander,bucknor,Male,25 - 45,African-American,6.0,0.0,F,Possession of Cocaine,1,Low,1
+christopher,bryant,Male,25 - 45,African-American,1.0,0.0,M,Battery,0,Low,0
+george,brent,Male,Greater than 45,Caucasian,1.0,0.0,M,Felony Battery w/Prior Convict,0,Low,0
+james,dean,Male,25 - 45,Caucasian,2.0,0.0,F,False Imprisonment,0,Low,0
+aajah,herrington,Female,Less than 25,African-American,0.0,-1.0,F,Driving While License Revoked,1,Medium,1
+jose,escobar,Male,25 - 45,Hispanic,1.0,0.0,F,Felony/Driving Under Influence,0,Low,0
+anthony,diaz,Male,25 - 45,Hispanic,2.0,15.0,M,arrest case no charge,1,Medium,1
+laver,dent,Female,25 - 45,African-American,3.0,-1.0,F,Aggravated Assault W/dead Weap,1,Medium,0
+michael,cotto,Male,25 - 45,Caucasian,5.0,-1.0,F,Resist Officer w/Violence,1,Medium,1
+gibrian,wilson,Male,25 - 45,African-American,9.0,0.0,F,"Poss3,4 Methylenedioxymethcath",0,Medium,0
+daniel,heim,Male,25 - 45,Caucasian,0.0,-2.0,M,Criminal Mischief>$200<$1000,0,Medium,0
+sergio,vankanten,Male,25 - 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+epifania,roman,Male,25 - 45,African-American,1.0,-1.0,F,Agg Battery Grt/Bod/Harm,1,Low,1
+john,ballard,Male,25 - 45,Caucasian,9.0,-1.0,F,Tampering With Physical Evidence,1,High,1
+kim,mcconn,Male,Greater than 45,African-American,3.0,-1.0,F,arrest case no charge,1,Low,1
+john,fox,Male,Greater than 45,Caucasian,3.0,-1.0,F,arrest case no charge,0,Low,0
+kenneth,sabino,Male,Less than 25,Caucasian,1.0,-1.0,M,Battery,1,Low,0
+shawniel,smith,Male,25 - 45,African-American,3.0,-1.0,F,Del Cannabis At/Near Park,1,Medium,1
+laquana,crawford,Female,Less than 25,African-American,3.0,-1.0,F,Grand Theft in the 3rd Degree,0,High,0
+juan,reyes,Male,Less than 25,Hispanic,0.0,-1.0,F,Burglary Conveyance Unoccup,0,Low,0
+bryan,burnett,Male,25 - 45,Caucasian,2.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,0,Medium,0
+breon,perry,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Conveyance Unoccup,1,Medium,1
+mikhail,grant,Male,Less than 25,Other,0.0,-1.0,M,Prowling/Loitering,0,Medium,0
+brian,denby,Male,25 - 45,Caucasian,0.0,-1.0,F,Lewd/Lasc Battery Pers 12+/<16,0,Low,0
+john,seymore,Male,Greater than 45,African-American,7.0,-1.0,F,Possession of Cocaine,1,High,1
+janice,palmer,Female,Greater than 45,Caucasian,0.0,-3.0,F,Del Cannabis For Consideration,0,Low,0
+joshua,drew,Male,25 - 45,Caucasian,6.0,-1.0,F,arrest case no charge,0,Medium,0
+lesean,mountain,Male,25 - 45,African-American,1.0,0.0,M,Battery,0,Low,0
+jonathan,walker,Male,25 - 45,African-American,16.0,-8.0,F,arrest case no charge,1,High,1
+troy,fountain,Male,25 - 45,African-American,2.0,-1.0,F,arrest case no charge,0,Low,0
+rabbir,hossain,Male,25 - 45,African-American,0.0,0.0,M,Driving Under The Influence,0,Low,0
+alex,olivo,Male,25 - 45,Hispanic,3.0,-1.0,F,Felony Battery (Dom Strang),1,Low,1
+victor,jiron,Male,25 - 45,Hispanic,0.0,-1.0,M,Battery,1,Low,1
+michael,gardner,Male,25 - 45,African-American,16.0,28.0,M,Battery,1,High,1
+alan,saintfleur,Male,25 - 45,African-American,1.0,-4.0,M,Petit Theft,1,High,1
+christopher,tokarz,Male,25 - 45,Caucasian,0.0,0.0,F,Resist Officer w/Violence,0,Low,0
+evan,blake,Male,Less than 25,Caucasian,2.0,-3.0,F,Possession of LSD,1,High,1
+aquaria,mitchell,Female,Less than 25,African-American,2.0,-1.0,F,Shoot Into Vehicle,1,High,1
+tyler,anderson,Male,Less than 25,Caucasian,2.0,0.0,F,Poss F/Arm Delinq,1,High,1
+bernadette,fleury,Female,25 - 45,African-American,0.0,0.0,F,Aggravated Battery,0,Low,0
+sherman,bynes,Male,25 - 45,African-American,13.0,-1.0,F,Agg Battery Grt/Bod/Harm,1,High,1
+demetrius,weeks,Male,25 - 45,African-American,0.0,0.0,M,Possess Cannabis/20 Grams Or Less,0,Medium,0
+lloyd,jackson,Male,Greater than 45,African-American,0.0,-1.0,F,Possession of Cocaine,1,Medium,1
+stephen,vaughn,Male,Less than 25,African-American,0.0,-1.0,M,Open Carrying Of Weapon,0,Medium,0
+lester,littman,Male,Greater than 45,Caucasian,2.0,0.0,F,Possession of Cocaine,1,Medium,1
+ivan,parra,Male,25 - 45,Caucasian,4.0,-1.0,F,Robbery / No Weapon,0,Low,0
+christopher,fernando,Male,25 - 45,African-American,0.0,-1.0,F,Aggrav Battery w/Deadly Weapon,0,Low,0
+fabian,staples,Male,25 - 45,African-American,4.0,0.0,F,"Poss3,4 Methylenedioxymethcath",1,High,1
+johnny,owens,Male,25 - 45,African-American,5.0,-1.0,F,Possession of Oxycodone,1,Low,1
+anthony,smith,Male,Greater than 45,African-American,22.0,-1.0,F,arrest case no charge,1,High,1
+jesse,montooth,Male,25 - 45,Caucasian,1.0,0.0,M,Battery,0,Low,0
+jeremy,hoggins,Male,25 - 45,African-American,3.0,-1.0,F,arrest case no charge,1,High,1
+brittany,clark,Female,Less than 25,African-American,0.0,-2.0,F,Grand Theft in the 3rd Degree,0,Medium,0
+finest,williams,Male,Less than 25,African-American,3.0,-1.0,F,Criminal Mischief,1,High,1
+margery,grindstaff,Female,25 - 45,Caucasian,0.0,-1.0,M,DUI Level 0.15 Or Minor In Veh,0,Low,0
+gregory,luff,Male,Greater than 45,Caucasian,0.0,-1.0,F,Possession of Cocaine,0,Low,0
+kadijah,julien,Male,Less than 25,African-American,1.0,-4.0,F,Grand Theft in the 3rd Degree,0,Low,0
+john,mcginnis,Male,Greater than 45,Caucasian,1.0,0.0,M,Driving Under The Influence,1,Low,1
+bonita,welch,Male,Greater than 45,African-American,8.0,0.0,F,Possession of Cocaine,1,Low,1
+kelvin,edwards,Male,Less than 25,African-American,0.0,0.0,F,Burglary Structure Unoccup,1,Medium,1
+francisco,jimenezpagan,Male,25 - 45,Hispanic,0.0,0.0,F,Grand Theft in the 3rd Degree,0,Medium,0
+iyana,llanos,Female,25 - 45,African-American,1.0,-23.0,M,Battery,0,Low,0
+berry,oliver,Male,Greater than 45,African-American,0.0,0.0,F,Pos Cannabis W/Intent Sel/Del,1,Medium,1
+michael,rivera,Male,25 - 45,Other,1.0,-1.0,F,Felony Battery (Dom Strang),0,Low,0
+kenneth,tommie,Male,Greater than 45,Other,7.0,0.0,F,Child Abuse,1,Medium,1
+damian,harris,Male,Less than 25,African-American,3.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+jonathan,vanegas,Male,Less than 25,Hispanic,0.0,0.0,M,Driving Under The Influence,0,Low,0
+dandre,nelson,Male,Less than 25,African-American,1.0,0.0,F,arrest case no charge,1,High,1
+frantz,pointdujour,Male,25 - 45,African-American,1.0,-12.0,F,arrest case no charge,0,Low,0
+phylis,ettinger,Female,Greater than 45,Caucasian,5.0,-1.0,M,Battery,1,Medium,1
+angelica,garcia,Female,25 - 45,Caucasian,0.0,-1.0,F,Abuse Without Great Harm,0,Medium,0
+kameron,koepke,Male,Less than 25,Caucasian,0.0,-1.0,F,arrest case no charge,1,High,1
+kadeidra,bankston,Female,Less than 25,African-American,0.0,-4.0,F,Burglary Dwelling Assault/Batt,1,Medium,1
+kenneth,sewell,Male,25 - 45,African-American,5.0,-1.0,F,Aggrav Stalking After Injunctn,0,High,0
+oscar,lloranzo,Male,Greater than 45,Hispanic,2.0,-1.0,F,Burglary Unoccupied Dwelling,0,Low,0
+matthew,brown,Male,Less than 25,African-American,0.0,-1.0,F,Possession of Butylone,1,Medium,1
+utwain,davis,Male,25 - 45,African-American,3.0,-1.0,F,Resist Officer w/Violence,1,Low,1
+angel,bravo,Male,25 - 45,Hispanic,0.0,-1.0,M,Battery,0,High,0
+terrance,holland,Male,25 - 45,Hispanic,20.0,0.0,F,arrest case no charge,0,High,0
+eduard,blanco,Male,25 - 45,Hispanic,0.0,0.0,M,Driving Under The Influence,0,Low,0
+jean,joseph,Male,Greater than 45,African-American,3.0,6.0,F,Att Burgl Unoccupied Dwel,0,High,0
+justin,marcello,Male,25 - 45,Caucasian,5.0,-1.0,F,Driving While License Revoked,0,Low,0
+hubert,hughes,Male,25 - 45,African-American,1.0,-1.0,F,Burglary Structure Unoccup,1,Low,1
+thelbert,brayboy,Male,Greater than 45,African-American,20.0,-1.0,M,arrest case no charge,1,Medium,0
+michael,coley,Male,Less than 25,African-American,2.0,-1.0,F,Tampering With Physical Evidence,1,Medium,1
+benjamin,joseph,Male,Less than 25,African-American,3.0,0.0,F,arrest case no charge,1,High,1
+deneil,merritt,Male,25 - 45,African-American,3.0,-1.0,M,Battery,0,Medium,0
+georbel,gonzalez-rodriguez,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,1,Low,1
+lisa,fogarty,Female,Greater than 45,Caucasian,8.0,-10.0,F,arrest case no charge,0,Low,0
+henry,loubeau,Male,Less than 25,Other,0.0,-1.0,F,Attempted Burg/Convey/Unocc,1,Medium,1
+ismael,sylvain,Male,25 - 45,African-American,17.0,-1.0,F,Driving While License Revoked,1,High,1
+apollon,chery,Male,25 - 45,Other,6.0,-1.0,F,Possession of Cocaine,1,Low,1
+melissa,dowds,Female,Less than 25,Caucasian,0.0,0.0,F,Possession of Cocaine,0,Low,0
+joey,pierce,Male,Less than 25,Caucasian,4.0,-1.0,F,Grand Theft (Motor Vehicle),0,High,0
+anthony,angotti,Male,Greater than 45,Caucasian,3.0,-1.0,F,Agg Battery Grt/Bod/Harm,0,Low,0
+alexis,palen,Male,25 - 45,Caucasian,4.0,-1.0,F,arrest case no charge,0,Low,0
+ricardo,ruiz,Male,25 - 45,African-American,3.0,-21.0,F,Crimin Mischief Damage $1000+,1,Low,1
+daniel,buchner,Male,Greater than 45,Caucasian,5.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+brian,cunningham,Male,25 - 45,African-American,0.0,0.0,F,Tampering With Physical Evidence,0,Low,0
+alejandro,cabrera,Male,25 - 45,Caucasian,4.0,0.0,F,Tamper With Witness/Victim/CI,1,Low,1
+james,howard,Male,25 - 45,African-American,3.0,-1.0,F,Felony Driving While Lic Suspd,1,Low,1
+ramon,matute,Male,Greater than 45,Hispanic,2.0,0.0,M,DUI Property Damage/Injury,0,Low,0
+tommie,carter,Male,Greater than 45,African-American,1.0,-1.0,F,Possession of Cocaine,0,Low,0
+james,thompson,Male,Greater than 45,African-American,19.0,-1.0,F,Felony Driving While Lic Suspd,0,Low,0
+winston,gregory,Male,Greater than 45,Other,0.0,-1.0,F,Aggravated Battery / Pregnant,0,Low,0
+terry,carte,Male,Greater than 45,Caucasian,14.0,-1.0,F,Driving While License Revoked,1,Low,1
+lance,geddes,Male,Greater than 45,African-American,0.0,0.0,F,Possession of Cocaine,1,Low,1
+lefort,eugene,Male,Greater than 45,African-American,0.0,0.0,M,Battery,0,Low,0
+ryan,ingber,Male,Less than 25,Caucasian,1.0,-1.0,F,False Ownership Info/Pawn Item,1,Medium,1
+daniel,cortes,Male,25 - 45,Caucasian,10.0,0.0,M,Driving License Suspended,1,High,1
+michael,spetsieris,Male,25 - 45,Caucasian,1.0,-1.0,F,arrest case no charge,1,Low,0
+sekeyia,dejean,Female,Less than 25,African-American,0.0,-1.0,M,Battery,1,Medium,1
+marlon,turner,Male,25 - 45,African-American,1.0,-1.0,M,Battery,1,Medium,1
+sarah,seiler,Female,25 - 45,Caucasian,1.0,-1.0,F,Agg Battery Grt/Bod/Harm,0,High,0
+carlos,carballea,Male,25 - 45,Caucasian,1.0,-1.0,F,arrest case no charge,1,High,1
+kelvin,diaz,Male,25 - 45,Caucasian,2.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+luis,sanchez,Male,Greater than 45,Hispanic,20.0,-1.0,F,False Bomb Report,0,Low,0
+wesley,findley,Male,25 - 45,African-American,3.0,-1.0,F,Burglary Structure Unoccup,1,Medium,1
+james,harriott,Male,25 - 45,African-American,7.0,-1.0,F,Aggravated Assault W/Dead Weap,1,Medium,1
+hakeem,fulton,Male,Less than 25,African-American,1.0,-1.0,F,"Poss3,4 Methylenedioxymethcath",1,High,1
+kela,simpson,Female,25 - 45,Other,2.0,-1.0,F,arrest case no charge,0,Low,0
+justin,thomas,Male,25 - 45,African-American,10.0,-1.0,F,arrest case no charge,1,High,1
+alfred,infante,Male,25 - 45,African-American,2.0,-1.0,F,arrest case no charge,0,Medium,0
+tiffany,dale,Female,25 - 45,Caucasian,1.0,-1.0,M,Battery,1,Medium,1
+linda,etienne,Female,25 - 45,African-American,0.0,-1.0,F,Possession of Oxycodone,1,Low,1
+margretta,martin,Female,25 - 45,Other,1.0,-1.0,F,Crim Use of Personal ID Info,0,Low,0
+charles,hill,Male,25 - 45,African-American,19.0,-17.0,M,Battery,1,High,1
+stacy,massaro,Female,25 - 45,Caucasian,1.0,-30.0,M,Battery,0,Medium,0
+paul,davis,Male,25 - 45,African-American,19.0,-1.0,M,Battery,1,Medium,1
+gabriel,magnone,Male,25 - 45,Caucasian,4.0,-3.0,M,Petit Theft $100- $300,1,Medium,1
+jordan,rodriguez,Male,25 - 45,Caucasian,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+jorge,fernandez,Male,25 - 45,Hispanic,4.0,0.0,F,Possession of Cannabis,0,Medium,0
+david,daniels,Male,25 - 45,African-American,17.0,0.0,F,Possession of Cocaine,1,High,1
+eric,alders,Male,25 - 45,Caucasian,1.0,-4.0,F,arrest case no charge,0,Low,0
+margarita,gonzalez,Female,25 - 45,Hispanic,1.0,-5.0,M,Battery,0,Low,0
+charlie,stanley,Male,Less than 25,African-American,1.0,0.0,F,Possession of Codeine,0,Medium,0
+daniel,gonzalez,Male,25 - 45,Caucasian,1.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+bryan,sandrin,Male,25 - 45,Caucasian,1.0,-1.0,M,,0,Low,0
+jacqueline,battle,Female,Greater than 45,African-American,8.0,-1.0,F,arrest case no charge,0,High,0
+quentin,bullard,Male,Less than 25,African-American,0.0,0.0,M,Disorderly Conduct,1,Low,1
+frederick,thomas,Male,25 - 45,Other,1.0,-1.0,M,Battery,0,Low,0
+tony,neal,Male,Greater than 45,African-American,5.0,-1.0,F,Possession of Cocaine,1,High,1
+mark,galavotti,Male,Greater than 45,Caucasian,8.0,-1.0,M,Criminal Mischief,0,Low,0
+linda,dawson,Female,Greater than 45,Caucasian,1.0,0.0,M,DUI Level 0.15 Or Minor In Veh,0,Low,0
+jimmy,bessard,Male,Less than 25,Other,1.0,-1.0,F,Grand Theft Firearm,1,Low,1
+isaac,pardo,Male,25 - 45,Hispanic,0.0,-5.0,F,Stalking (Aggravated),0,Low,0
+tholome,johnson,Male,25 - 45,African-American,0.0,0.0,F,Driving While License Revoked,0,High,0
+taketha,lherisse,Female,Less than 25,African-American,0.0,-1.0,M,Battery,0,Low,0
+robert,heil,Male,25 - 45,African-American,4.0,-1.0,F,Robbery / No Weapon,1,Medium,1
+david,harris,Male,25 - 45,Caucasian,2.0,0.0,F,Possession of Cocaine,0,Medium,0
+fernando,moreno,Male,Greater than 45,Hispanic,0.0,-1.0,F,Grand Theft (Motor Vehicle),0,Low,0
+felipe,pagan,Male,Greater than 45,African-American,0.0,-3.0,F,Possession of Morphine,1,Medium,1
+james,felder,Male,Greater than 45,African-American,2.0,-1.0,M,arrest case no charge,0,Low,0
+zachary,simon,Male,25 - 45,African-American,0.0,-1.0,F,Driving While License Revoked,0,High,0
+gregory,williams,Male,25 - 45,Caucasian,0.0,0.0,M,DUI Property Damage/Injury,0,Low,0
+jason,howell,Male,25 - 45,African-American,6.0,-1.0,F,Possession of Cocaine,0,Medium,0
+eric,colbert,Male,25 - 45,African-American,8.0,-1.0,M,Battery,1,Low,1
+joseph,mckinley,Male,Less than 25,African-American,1.0,-2.0,F,Grand Theft in the 3rd Degree,0,Low,0
+michael,fernandez,Male,Less than 25,Hispanic,0.0,0.0,F,Possession Of Alprazolam,1,Low,1
+yaquelyn,iranzo,Female,25 - 45,Hispanic,0.0,-3.0,M,Battery,0,Low,0
+dennis,tummings,Male,25 - 45,Other,0.0,-1.0,F,False Imprisonment,0,Low,0
+ricky,simmons,Male,Greater than 45,African-American,21.0,-1.0,M,arrest case no charge,1,Medium,1
+jules,canuet,Male,25 - 45,Caucasian,0.0,-1.0,M,Criminal Mischief Damage <$200,0,Low,0
+wally,germain-philistin,Male,25 - 45,Other,0.0,-1.0,M,Battery,0,Low,0
+michael,leigh,Male,Greater than 45,Caucasian,4.0,-11.0,F,Aggravated Assault w/Firearm,0,Low,0
+kevin,watrous,Male,Greater than 45,Caucasian,0.0,-1.0,M,Operating W/O Valid License,0,Low,0
+crissie,wilson,Female,25 - 45,African-American,5.0,-1.0,F,Aggravated Assault W/dead Weap,0,Medium,0
+ian,turnbull,Male,25 - 45,African-American,13.0,-1.0,M,Possess Cannabis/20 Grams Or Less,1,High,1
+joseph,farina,Male,25 - 45,Caucasian,1.0,-1.0,F,arrest case no charge,0,Medium,0
+steven,kitt,Male,Greater than 45,Caucasian,7.0,0.0,F,Possession of Cannabis,0,Low,0
+fredrick,grant,Male,Greater than 45,Caucasian,1.0,-1.0,F,Felony/Driving Under Influence,1,Low,0
+latoya,neal,Female,25 - 45,African-American,1.0,-1.0,M,arrest case no charge,0,Medium,0
+henry,davis,Male,25 - 45,African-American,9.0,-1.0,F,Possession of Cocaine,1,High,1
+ferris,finley,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Unoccupied Dwelling,0,Low,0
+christopher,rabold,Male,Less than 25,Caucasian,1.0,-1.0,F,arrest case no charge,0,Low,0
+frank,moore,Male,Greater than 45,Caucasian,5.0,-1.0,M,arrest case no charge,1,Medium,0
+mary,watson,Female,Greater than 45,Caucasian,0.0,-1.0,M,Lve/Scen/Acc/Veh/Prop/Damage,0,Low,0
+deborah,zachary,Female,Greater than 45,Caucasian,0.0,-2.0,M,DUI Property Damage/Injury,0,Low,0
+aston,bailey,Male,Greater than 45,African-American,0.0,-1.0,F,Aggravated Battery / Pregnant,0,Low,0
+isaac,salmeronoliva,Male,Less than 25,Hispanic,1.0,0.0,F,arrest case no charge,0,Low,0
+shawn,carter,Male,Greater than 45,Caucasian,2.0,-1.0,M,Possess Cannabis/20 Grams Or Less,1,Low,0
+chad,hohle,Male,Greater than 45,Caucasian,8.0,-1.0,F,DWI w/Inj Susp Lic / Habit Off,0,Low,0
+gian,morales,Male,25 - 45,Caucasian,10.0,0.0,M,Battery,0,Low,0
+franklin,cedeno,Male,25 - 45,Caucasian,2.0,-1.0,M,Battery,0,Low,0
+latif,blagman,Male,Less than 25,African-American,3.0,-1.0,F,arrest case no charge,0,Medium,0
+robert,diers,Male,Greater than 45,Caucasian,0.0,0.0,M,DUI Property Damage/Injury,0,Low,0
+jeffrey,simmons,Male,Greater than 45,African-American,13.0,-1.0,M,arrest case no charge,0,Medium,0
+yoshihiro,merello,Male,25 - 45,Hispanic,8.0,-1.0,F,Possession Of Alprazolam,1,Medium,1
+calodius,washington,Male,Less than 25,African-American,5.0,24.0,F,Possession Burglary Tools,1,High,1
+zachery,derenoncourt,Male,Less than 25,African-American,0.0,-1.0,F,Uttering a Forged Instrument,0,Low,0
+trevin,miller,Male,25 - 45,African-American,6.0,-1.0,F,Aggravated Battery / Pregnant,1,Low,1
+darriss,cooper,Male,25 - 45,African-American,0.0,-1.0,F,Felony Battery (Dom Strang),0,Low,0
+terrell,hall,Male,25 - 45,African-American,0.0,-1.0,F,Crim Use of Personal ID Info,0,Medium,0
+eugenio,perez-cuyuch,Male,25 - 45,Hispanic,1.0,0.0,F,Driving While License Revoked,1,Low,1
+christy,harris,Female,25 - 45,African-American,6.0,0.0,F,Grand Theft in the 3rd Degree,0,Medium,0
+antwon,hyman,Male,25 - 45,African-American,0.0,-1.0,F,Trespassing/Construction Site,0,Low,0
+wilfredo,torres,Male,Greater than 45,Caucasian,0.0,-1.0,M,DUI - Enhanced,0,Low,0
+steven,henry,Male,Greater than 45,African-American,1.0,-1.0,M,Resist/Obstruct W/O Violence,0,Low,0
+madeline,cuello,Female,25 - 45,Caucasian,0.0,0.0,M,Battery,0,Low,0
+taneka,walls,Female,25 - 45,African-American,2.0,-1.0,F,Aggravated Battery / Pregnant,1,Medium,1
+anthony,pires,Male,Greater than 45,African-American,10.0,-1.0,F,Felony Battery (Dom Strang),1,Medium,1
+james,travis,Male,25 - 45,African-American,4.0,-1.0,M,Criminal Mischief>$200<$1000,1,Medium,1
+bravon,newsome,Male,Less than 25,Caucasian,1.0,28.0,F,arrest case no charge,1,High,1
+priscilla,chavez,Female,25 - 45,Hispanic,1.0,-6.0,M,DUI - Enhanced,0,Low,0
+wade,grant,Male,25 - 45,African-American,4.0,-1.0,M,Battery,1,Low,1
+paul,gonzalez,Male,Greater than 45,Hispanic,13.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+ramone,hall,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Unoccupied Dwelling,0,Low,0
+richenel,metayer,Male,25 - 45,Other,3.0,-1.0,M,Viol Injunct Domestic Violence,1,Low,1
+gorvens,sene,Male,25 - 45,African-American,2.0,0.0,M,Battery,1,Low,1
+dushane,detrie,Female,25 - 45,African-American,1.0,7.0,F,arrest case no charge,0,Medium,0
+alexus,jackson,Female,Less than 25,African-American,2.0,0.0,M,Unlaw LicTag/Sticker Attach,0,Medium,0
+richard,lemmon,Male,Greater than 45,Caucasian,0.0,0.0,M,Driving Under The Influence,0,Low,0
+jessica,andujar,Female,25 - 45,Caucasian,0.0,-1.0,M,Driving Under The Influence,0,Low,0
+tony,woodberry,Male,25 - 45,African-American,1.0,-1.0,F,arrest case no charge,0,Medium,0
+ray,ortiz,Male,25 - 45,Hispanic,0.0,0.0,F,Agg Battery Grt/Bod/Harm,0,Low,0
+consuelo,mella,Female,25 - 45,Caucasian,1.0,0.0,M,Battery,0,Low,0
+cedrick,camper,Male,Less than 25,African-American,1.0,-1.0,M,Battery,0,Medium,0
+rovens,daphnis,Male,25 - 45,African-American,1.0,-1.0,F,Possession of Hydrocodone,1,Low,1
+david,humberto,Male,25 - 45,Hispanic,0.0,-1.0,F,Possession of Hydromorphone,0,Low,0
+douglas,pineda,Male,25 - 45,Hispanic,4.0,0.0,M,Battery,1,Low,1
+anil,somwaru,Male,Less than 25,Other,3.0,-1.0,M,Battery,1,Low,1
+gregory,tauber,Male,Greater than 45,Caucasian,0.0,0.0,M,Prostitution/Lewd Act Assignation,0,Low,0
+travis,floyd,Male,25 - 45,African-American,12.0,0.0,F,Pos Cannabis W/Intent Sel/Del,1,High,1
+eileen,dunn,Female,Greater than 45,Caucasian,0.0,-1.0,M,Disorderly Intoxication,0,Low,0
+devin,cooper,Male,25 - 45,African-American,22.0,-1.0,M,arrest case no charge,1,High,1
+jude,ferdinand,Male,25 - 45,African-American,0.0,-1.0,F,Crim Use of Personal ID Info,0,Medium,0
+bradley,ecklund,Male,25 - 45,Caucasian,4.0,0.0,F,Pos Cannabis W/Intent Sel/Del,0,Medium,0
+william,karlson,Male,25 - 45,African-American,1.0,-1.0,F,Unauth Poss ID Card or DL,0,Low,0
+giuseppe,montalbano,Male,25 - 45,Caucasian,0.0,-1.0,F,Use of Anti-Shoplifting Device,0,Low,0
+emonte,banks,Male,25 - 45,African-American,7.0,-1.0,F,Driving While License Revoked,0,Low,0
+jacksin,lumas,Male,Less than 25,African-American,2.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+patricio,regaldo,Male,Greater than 45,Caucasian,0.0,0.0,F,Possession of Cocaine,0,Low,0
+ronald,munoz,Male,Less than 25,Hispanic,0.0,-1.0,M,Battery,0,Low,0
+marcie,denney,Female,25 - 45,Caucasian,1.0,-1.0,F,arrest case no charge,0,Medium,0
+matthew,lingwood,Male,25 - 45,Caucasian,0.0,-1.0,F,Possession of Cannabis,0,Low,0
+frantz,beneche,Male,25 - 45,Other,1.0,-1.0,F,arrest case no charge,0,Low,0
+samuel,gedeon,Male,25 - 45,African-American,0.0,-1.0,F,Carrying Concealed Firearm,1,Low,1
+mircea,marton,Male,25 - 45,Caucasian,2.0,-1.0,M,Battery,1,Low,0
+joseph,sisto,Male,25 - 45,Caucasian,2.0,0.0,M,Battery,1,Low,0
+nikson,suffrin,Male,Greater than 45,Other,0.0,0.0,M,Driving Under The Influence,0,Low,0
+alonzo,coleman,Male,Less than 25,African-American,1.0,-15.0,F,arrest case no charge,1,Medium,1
+david,walker,Male,25 - 45,African-American,9.0,-1.0,F,Possession of Cannabis,0,Medium,0
+davante,houston,Male,Less than 25,African-American,1.0,-1.0,M,Battery,1,Medium,1
+tyvon,elisias,Male,25 - 45,African-American,25.0,29.0,F,arrest case no charge,1,High,1
+sabrina,day,Female,25 - 45,African-American,0.0,-1.0,M,Petit Theft $100- $300,0,Low,0
+noel,medina,Male,Greater than 45,Caucasian,0.0,-1.0,M,Driving Under The Influence,0,Low,0
+freddy,cardona,Male,Greater than 45,Caucasian,1.0,-1.0,M,DUI Property Damage/Injury,0,Low,0
+brian,piggott,Male,Greater than 45,Caucasian,4.0,0.0,F,Felony Petit Theft,1,Medium,1
+annette,jackson,Female,Greater than 45,African-American,6.0,-1.0,F,Felony Petit Theft,0,Low,0
+taryn,quinterri,Female,25 - 45,Caucasian,0.0,-1.0,F,Aggravated Assault W/Dead Weap,0,Low,0
+louis,simonds,Male,25 - 45,Other,1.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,1,Low,1
+miesha,jones,Female,25 - 45,African-American,1.0,-1.0,F,arrest case no charge,0,Medium,0
+travis,taylor,Male,25 - 45,African-American,6.0,-1.0,M,arrest case no charge,0,High,0
+nicola,spenceburrell,Female,25 - 45,Other,2.0,-1.0,M,Petit Theft,0,Low,0
+fabian,chambers,Male,Less than 25,African-American,8.0,-1.0,F,Grand Theft (Motor Vehicle),1,High,1
+cedrial,brown,Male,25 - 45,African-American,1.0,0.0,F,Possession of Codeine,0,Medium,0
+jeff,joseph,Male,25 - 45,African-American,6.0,-1.0,M,Driving License Suspended,1,High,1
+stacy,coley,Male,25 - 45,African-American,6.0,-1.0,F,arrest case no charge,0,Medium,0
+paula,anderson,Female,Greater than 45,African-American,7.0,-1.0,F,Possession of Cocaine,1,High,1
+louis,simon,Male,Greater than 45,Caucasian,2.0,0.0,F,Grand Theft in the 3rd Degree,1,High,1
+jermaine,hall,Male,25 - 45,African-American,24.0,-1.0,F,Burglary With Assault/battery,0,High,0
+shakera,rolle,Female,Less than 25,African-American,2.0,-1.0,F,arrest case no charge,1,High,1
+david,cadet,Male,Less than 25,African-American,2.0,-2.0,F,Attempted Robbery  No Weapon,1,Medium,1
+thomas,raby,Male,Greater than 45,Caucasian,0.0,-2.0,F,Felony Battery (Dom Strang),0,Low,0
+nathaniel,echevarria,Male,Less than 25,Hispanic,0.0,0.0,F,Grand Theft (Motor Vehicle),0,High,0
+courtney,knoche,Female,25 - 45,Caucasian,1.0,-1.0,M,Battery,1,Low,1
+joshua,mercado,Male,Less than 25,Caucasian,10.0,-1.0,F,arrest case no charge,1,Medium,0
+cipher,allah,Male,25 - 45,African-American,3.0,-1.0,F,arrest case no charge,0,Low,0
+lateria,green,Female,Less than 25,African-American,2.0,-1.0,F,Aggrav Battery w/Deadly Weapon,0,High,0
+gregory,campbell,Male,25 - 45,African-American,6.0,0.0,F,Possession of Cannabis,1,High,1
+brian,addeo,Male,25 - 45,Caucasian,0.0,-1.0,F,Possession Of Heroin,0,Medium,0
+roy,harris,Male,25 - 45,African-American,12.0,-1.0,F,Grand Theft Firearm,1,High,1
+quaice,bowen,Male,25 - 45,African-American,2.0,-1.0,F,arrest case no charge,0,Low,0
+joshua,patterson,Male,25 - 45,African-American,0.0,-1.0,M,Battery,1,High,1
+lisette,artze,Female,25 - 45,Caucasian,0.0,0.0,M,Battery,0,Medium,0
+carlis,mccrea,Male,25 - 45,African-American,5.0,-1.0,F,Poss Contr Subst W/o Prescript,1,Medium,1
+terrill,morley,Male,25 - 45,African-American,1.0,0.0,F,Robbery Sudd Snatch No Weapon,0,Low,0
+stanley,rich,Male,25 - 45,African-American,25.0,18.0,F,arrest case no charge,1,High,1
+charles,jaycox,Male,25 - 45,Caucasian,3.0,-1.0,F,Driving While License Revoked,1,Medium,1
+sean,johnson,Male,25 - 45,Caucasian,5.0,-1.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+christopher,lokai,Male,25 - 45,Other,0.0,-1.0,F,Child Abuse,0,Low,0
+michael,somers,Male,Greater than 45,Caucasian,4.0,-8.0,M,Disorderly Conduct,1,High,0
+shanuce,edinburg,Female,Less than 25,African-American,1.0,-11.0,M,Trespass Struct/Conveyance,1,Low,1
+kristen,waun,Female,25 - 45,Caucasian,0.0,0.0,M,Prostitution/Lewd Act Assignation,0,Low,0
+luis,gaitan,Male,Greater than 45,Hispanic,0.0,0.0,F,Felony Battery (Dom Strang),0,Low,0
+flora,emery,Female,Greater than 45,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+ryan,pottle,Male,25 - 45,Caucasian,6.0,-4.0,F,Possession Of Alprazolam,0,Low,0
+nathan,brown,Male,Less than 25,African-American,1.0,-1.0,F,arrest case no charge,1,Low,1
+jamie,winkleblech,Female,25 - 45,Caucasian,2.0,-1.0,F,Grand Theft (Motor Vehicle),0,Low,0
+maurice,watson,Male,Greater than 45,Other,7.0,-1.0,F,Agg Fleeing and Eluding,1,Low,1
+derek,lerkins,Male,25 - 45,Hispanic,26.0,-1.0,F,Driving While License Revoked,1,High,1
+lakesia,hawkins,Female,25 - 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+leroy,ponder,Male,Greater than 45,African-American,3.0,-27.0,M,Battery,1,Low,1
+jose,medina,Male,25 - 45,Hispanic,5.0,-1.0,F,arrest case no charge,1,Low,1
+glenn,miller,Male,Greater than 45,Caucasian,0.0,-1.0,F,Agg Battery Grt/Bod/Harm,0,Low,0
+sam,mitchell,Male,Greater than 45,Caucasian,1.0,-1.0,F,Crim Use of Personal ID Info,1,Low,0
+jesse,lebrecht,Male,25 - 45,Caucasian,13.0,0.0,F,Crimin Mischief Damage $1000+,1,High,1
+roscoe,singletary,Male,25 - 45,African-American,3.0,-1.0,M,Driving License Suspended,1,Low,1
+eric,avery,Male,25 - 45,Caucasian,13.0,0.0,F,Driving While License Revoked,1,Low,1
+cornelius,nealy,Male,25 - 45,African-American,8.0,-1.0,F,Possession of Cocaine,1,High,1
+roderick,penn,Male,Greater than 45,African-American,0.0,0.0,M,DUI Property Damage/Injury,0,Low,0
+warrick,haggins,Male,25 - 45,African-American,19.0,29.0,F,Del Cannabis At/Near Park,1,Medium,1
+john,stanley,Male,25 - 45,African-American,9.0,-1.0,F,False Imprisonment,1,Medium,1
+jospeh,lenoir,Male,Greater than 45,African-American,0.0,0.0,F,Driving While License Revoked,0,Medium,0
+patricia,garcon,Female,25 - 45,African-American,2.0,-1.0,M,Exposes Culpable Negligence,0,Low,0
+windeline,rosume,Female,25 - 45,African-American,1.0,0.0,F,arrest case no charge,0,Medium,0
+james,rivelli,Male,Greater than 45,Caucasian,3.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+precious,mccray,Female,25 - 45,African-American,0.0,-1.0,M,Battery,1,High,1
+craig,lawrence,Male,Less than 25,African-American,0.0,-2.0,F,Burglary Structure Unoccup,0,Medium,0
+ana,mejarodriguez,Female,Greater than 45,Hispanic,0.0,0.0,M,Criminal Mischief Damage <$200,0,Low,0
+luis,quintero,Male,Greater than 45,Caucasian,0.0,0.0,F,arrest case no charge,0,Low,0
+dericky,mcgirt,Male,25 - 45,African-American,11.0,0.0,F,Aggravated Assault w/Firearm,1,High,1
+rebecca,lowery,Female,Greater than 45,Caucasian,1.0,-1.0,F,Felony DUI (level 3),0,High,0
+tess,giesen,Female,Less than 25,Caucasian,2.0,-2.0,F,Obtain Control Substance By Fraud,0,High,0
+william,neal,Male,25 - 45,African-American,4.0,-1.0,M,Battery,0,Low,0
+ryan,jones,Male,25 - 45,African-American,5.0,0.0,F,Possession Of Methamphetamine,1,Low,1
+catrice,telfort,Female,Less than 25,Other,0.0,-1.0,M,Battery,0,Low,0
+darrel,mims,Male,25 - 45,African-American,4.0,-1.0,M,Assault,1,Low,1
+charles,fichtner,Male,Greater than 45,Caucasian,0.0,0.0,M,Driving Under The Influence,0,Low,0
+jermaine,williams,Male,25 - 45,African-American,10.0,-1.0,F,Felony Battery (Dom Strang),1,High,1
+april,mincey,Female,25 - 45,Caucasian,1.0,-1.0,F,Possession of Morphine,0,Low,0
+rami,zaki,Male,25 - 45,Caucasian,10.0,-18.0,F,Driving While License Revoked,1,Low,1
+fabio,huarotte,Male,Less than 25,Caucasian,3.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,1,High,1
+travis,dixon,Male,25 - 45,African-American,10.0,0.0,F,arrest case no charge,1,Medium,1
+demetrious,ellis,Male,25 - 45,African-American,1.0,-1.0,M,arrest case no charge,0,Low,0
+russell,adams,Male,25 - 45,Caucasian,2.0,-1.0,M,Battery,1,Low,1
+latura,hall,Female,25 - 45,African-American,1.0,-1.0,M,Driving Under The Influence,0,Low,0
+jeremy,thompson,Male,Less than 25,African-American,0.0,-1.0,F,Uttering a Forged Instrument,1,Medium,1
+robson,figueiredo,Male,Greater than 45,Hispanic,0.0,-1.0,M,Viol Injunction Protect Dom Vi,0,Low,0
+emmet,sands,Male,Greater than 45,African-American,1.0,-1.0,F,arrest case no charge,0,Low,0
+michael,babbit,Male,25 - 45,Caucasian,5.0,-1.0,F,Possession of Cocaine,1,Low,1
+paul,fraser,Male,Greater than 45,African-American,0.0,-1.0,F,Battery on Law Enforc Officer,0,Low,0
+masoom,ali,Male,25 - 45,Caucasian,1.0,-15.0,F,Money Launder 100K or More Dols,0,Low,0
+craig,whitmour,Male,25 - 45,African-American,9.0,-1.0,F,Burglary Unoccupied Dwelling,1,Medium,1
+barry,rabinowitz,Male,Greater than 45,Caucasian,0.0,-1.0,M,Aggravated Assault W/dead Weap,0,Low,0
+howard,babitz,Male,Greater than 45,Caucasian,18.0,-26.0,M,Driving Under The Influence,1,Low,1
+andrew,thomas,Male,25 - 45,Caucasian,6.0,-1.0,F,Felony Battery (Dom Strang),1,Low,0
+louis,sells,Male,25 - 45,Caucasian,0.0,0.0,F,Poss Contr Subst W/o Prescript,0,Medium,0
+cody,rickard,Male,25 - 45,Caucasian,0.0,0.0,M,Battery,1,Low,1
+jayson,norman,Male,25 - 45,Caucasian,7.0,-1.0,M,Susp Drivers Lic 1st Offense,0,Medium,0
+ervin,jones,Male,Less than 25,African-American,2.0,0.0,F,Felony Battery (Dom Strang),1,Medium,0
+cornelius,green,Male,Greater than 45,African-American,19.0,-1.0,F,Felony Petit Theft,0,High,0
+tony,gotiear,Male,25 - 45,African-American,0.0,0.0,M,Driving Under The Influence,0,Low,0
+lisette,echevarria,Female,Less than 25,Caucasian,0.0,0.0,F,"Poss3,4 Methylenedioxymethcath",0,Medium,0
+jared,cohen,Male,25 - 45,Caucasian,0.0,0.0,M,DUI Level 0.15 Or Minor In Veh,1,Low,1
+michael,diaz,Male,Less than 25,Hispanic,2.0,-1.0,F,Poss Similitude of Drivers Lic,1,Medium,1
+michael,accetta,Male,25 - 45,Caucasian,0.0,-1.0,F,Crim Use of Personal ID Info,0,Low,0
+moriach,deus,Male,25 - 45,African-American,3.0,-1.0,F,Aggravated Battery / Pregnant,1,Low,1
+william,smith,Male,25 - 45,African-American,11.0,-1.0,F,Driving While License Revoked,1,Medium,0
+giovanni,bonair,Male,Less than 25,African-American,0.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+joseph,criscione,Male,Less than 25,Caucasian,6.0,-1.0,F,arrest case no charge,0,High,0
+romell,fernand,Male,25 - 45,African-American,5.0,0.0,F,Possession of Cannabis,1,High,1
+michael,armenti,Male,Greater than 45,Caucasian,4.0,-1.0,M,Criminal Mischief>$200<$1000,0,Low,0
+steven,strobridge,Male,Less than 25,African-American,1.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+melissa,bucholtz,Female,25 - 45,Caucasian,12.0,-1.0,F,Possession of Cocaine,1,High,1
+berry,sanders,Male,Greater than 45,African-American,7.0,-1.0,F,Agg Battery Grt/Bod/Harm,1,Low,1
+kwai,lam,Male,Greater than 45,Caucasian,1.0,-1.0,M,Driving Under The Influence,1,Low,1
+jarrell,weaver,Male,25 - 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+preston,roman,Male,25 - 45,Caucasian,1.0,0.0,M,Battery,0,Medium,0
+kelcie,jumper,Male,Less than 25,African-American,1.0,-1.0,M,Battery,1,Low,1
+seccunda,davis,Male,25 - 45,African-American,1.0,-1.0,M,Battery,0,Low,0
+kenneth,mcminn,Male,Greater than 45,Caucasian,3.0,-1.0,F,Grand Theft (Motor Vehicle),0,Medium,0
+andre,veira,Male,25 - 45,African-American,7.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+anthony,kiffin,Male,25 - 45,African-American,2.0,-13.0,F,Burglary With Assault/battery,0,Low,0
+mark,demeo,Male,25 - 45,Caucasian,17.0,-1.0,F,Poss Pyrrolidinovalerophenone,1,Low,1
+jamal,smart,Male,Less than 25,African-American,6.0,-1.0,F,Burglary Conveyance Unoccup,1,High,1
+deonta,harvard,Male,Greater than 45,African-American,9.0,-1.0,F,Felony Battery w/Prior Convict,1,Low,0
+shafon,gallimore,Male,25 - 45,African-American,7.0,-1.0,F,arrest case no charge,1,High,1
+shanta,mcfadden,Female,25 - 45,African-American,15.0,-1.0,F,arrest case no charge,1,Medium,1
+eric,lodenquai,Male,25 - 45,African-American,6.0,-1.0,F,Possession of Cocaine,1,High,1
+samuel,wesley,Male,25 - 45,African-American,1.0,0.0,M,Driving Under The Influence,0,Low,0
+rakeem,baptiste,Female,Less than 25,African-American,0.0,0.0,F,Possession Of Alprazolam,1,Medium,1
+maribell,guzman,Female,Greater than 45,Hispanic,2.0,-1.0,F,Grand Theft in the 3rd Degree,0,Low,0
+clinton,marshall,Male,25 - 45,African-American,1.0,-3.0,M,Unlaw LicTag/Sticker Attach,0,Low,0
+richard,tillman,Male,Greater than 45,African-American,12.0,-22.0,F,Possession of Cocaine,1,Low,1
+tyrone,carter,Male,Less than 25,African-American,3.0,-11.0,F,arrest case no charge,1,Medium,1
+lisa,kaye,Female,Greater than 45,Caucasian,3.0,-25.0,M,Driving Under The Influence,0,Low,0
+michael,ottey,Male,25 - 45,African-American,8.0,0.0,F,Aggravated Assault W/Dead Weap,0,Medium,0
+jasmine,cureton,Female,Less than 25,African-American,0.0,-4.0,M,Prostitution/Lewd Act Assignation,0,Medium,0
+patrick,santiago,Male,25 - 45,African-American,0.0,0.0,M,Operating W/O Valid License,1,Low,1
+devin,beasley,Male,Greater than 45,African-American,38.0,-1.0,F,Felony Battery w/Prior Convict,1,High,1
+kamal,warren,Male,25 - 45,African-American,1.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,0,Low,0
+roderick,goddard,Male,Greater than 45,African-American,4.0,0.0,F,Possession of Cocaine,0,Low,0
+tulsiram,harnarrine,Male,25 - 45,Asian,0.0,-1.0,M,Battery,0,Low,0
+mikerlie,debe,Female,Less than 25,African-American,0.0,0.0,M,Battery,0,Medium,0
+fidel,salnave,Male,25 - 45,Caucasian,4.0,0.0,M,Aggravated Battery / Pregnant,1,Low,1
+telise,cassidy,Female,25 - 45,Caucasian,2.0,-1.0,F,Burglary Structure Unoccup,1,High,1
+dominique,gonzalez,Female,Less than 25,Hispanic,1.0,-1.0,F,arrest case no charge,1,Medium,0
+david,liberis,Male,25 - 45,Other,2.0,-1.0,M,Battery,1,Low,1
+hector,hollis,Male,25 - 45,Other,0.0,-1.0,M,Battery,0,Low,0
+tavia,johnson,Female,Less than 25,African-American,0.0,-1.0,F,Possession Burglary Tools,1,Medium,1
+kayli,wagner,Female,Less than 25,Caucasian,0.0,0.0,F,Possession of Cocaine,0,Medium,0
+david,corbin,Male,Less than 25,African-American,4.0,-1.0,F,Poss Cntrft Contr Sub w/Intent,1,High,1
+charlie,simmons,Male,25 - 45,African-American,1.0,0.0,F,Uttering Forged Bills,0,Medium,0
+amer,raja,Male,25 - 45,Caucasian,0.0,0.0,F,Grand Theft (Motor Vehicle),0,Low,0
+franklin,rouse,Male,Greater than 45,African-American,1.0,0.0,M,Driving Under The Influence,0,Low,0
+tariq,raoui,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,1,Low,1
+roland,muzzi,Male,Greater than 45,Caucasian,2.0,-1.0,M,Battery,1,Low,1
+demetrius,coleman,Male,Less than 25,African-American,0.0,-1.0,F,Burglary Dwelling Armed,1,Low,1
+anthony,donaldson,Female,25 - 45,African-American,5.0,-1.0,F,Poss Pyrrolidinovalerophenone,1,High,1
+joseph,magana,Male,Less than 25,Hispanic,2.0,-1.0,F,Burglary Dwelling Occupied,1,Medium,1
+james,bradley,Male,25 - 45,African-American,1.0,0.0,F,Burglary Conveyance Unoccup,0,Medium,0
+barton,schroeder,Male,25 - 45,Caucasian,0.0,-1.0,M,Driving Under The Influence,1,Low,1
+damon,nicholas,Male,25 - 45,African-American,1.0,0.0,M,Viol Pretrial Release Dom Viol,1,Medium,1
+david,ingram,Male,25 - 45,African-American,10.0,-8.0,F,arrest case no charge,1,Medium,1
+christopher,henderson,Male,Less than 25,Caucasian,0.0,0.0,F,Possession of Cannabis,0,Low,0
+ava,ashley,Female,Greater than 45,African-American,21.0,-1.0,M,Battery,1,High,1
+dwight,gray,Male,25 - 45,African-American,5.0,-1.0,M,Battery,1,Medium,1
+kalil,edwards,Male,Less than 25,African-American,0.0,0.0,F,Pos Cannabis W/Intent Sel/Del,0,High,0
+fernando,rios,Male,25 - 45,Hispanic,8.0,-1.0,F,Possession of Cocaine,1,Medium,1
+lenin,rincon,Male,Less than 25,Caucasian,3.0,18.0,F,arrest case no charge,1,Medium,1
+tyrone,palacios,Male,Greater than 45,Caucasian,0.0,0.0,M,Resist/Obstruct W/O Violence,0,Low,0
+steven,austin,Male,Greater than 45,African-American,0.0,-1.0,M,Viol Injunct Domestic Violence,1,Low,1
+jamie,elliot,Male,25 - 45,African-American,0.0,-1.0,M,Possession of Cannabis,0,Low,0
+mellick,jackson,Male,Less than 25,African-American,1.0,-1.0,F,arrest case no charge,0,Low,0
+stephen,hannon,Male,Greater than 45,African-American,1.0,-1.0,M,arrest case no charge,0,Low,0
+michael,rosa,Male,25 - 45,Caucasian,2.0,0.0,M,Battery,1,Low,1
+lisa,byrum,Female,25 - 45,African-American,4.0,-1.0,F,arrest case no charge,0,Medium,0
+nancy,jimenez,Female,25 - 45,Hispanic,7.0,-19.0,F,arrest case no charge,1,Low,1
+oscar,lizano,Male,25 - 45,Caucasian,2.0,0.0,F,Agg Assault W/int Com Fel Dome,1,Low,1
+samuel,giard,Male,25 - 45,Caucasian,9.0,0.0,M,Violation Of Boater Safety Id,1,Low,1
+bernice,mcrae,Male,Greater than 45,African-American,2.0,-1.0,F,Possession of Cocaine,1,High,1
+jamar,dixon,Male,25 - 45,African-American,19.0,-1.0,F,arrest case no charge,1,High,1
+travis,thomas,Male,25 - 45,African-American,8.0,0.0,F,Grand Theft in the 3rd Degree,1,Medium,1
+jabari,wells,Male,25 - 45,African-American,2.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+christina,garrison,Female,25 - 45,Caucasian,0.0,0.0,M,Battery,0,Low,0
+akeem,james,Male,Less than 25,African-American,0.0,-1.0,F,Aggrav Battery w/Deadly Weapon,1,Medium,1
+stella,ashen,Female,Greater than 45,Caucasian,0.0,-1.0,M,Battery,0,Low,0
+tanisha,robinson,Female,25 - 45,African-American,9.0,-1.0,M,Petit Theft $100- $300,1,High,1
+kenson,jeanpierre,Male,25 - 45,African-American,5.0,0.0,F,Felony Driving While Lic Suspd,0,Low,0
+brian,carter,Male,25 - 45,Caucasian,3.0,-1.0,F,Driving While License Revoked,0,High,0
+virgina,tongyai,Male,25 - 45,Caucasian,0.0,-1.0,F,Burglary Assault/Battery Armed,0,Low,0
+andrew,mitchell,Male,25 - 45,African-American,0.0,-1.0,M,Aggravated Battery,1,Low,1
+monique,young,Female,Greater than 45,Caucasian,1.0,-4.0,M,Driving Under The Influence,0,Low,0
+shameka,wright,Female,25 - 45,African-American,1.0,-1.0,F,arrest case no charge,0,Low,0
+gregory,wilson,Male,Greater than 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+william,lamkin,Male,25 - 45,Caucasian,9.0,-1.0,F,Agg Assault W/int Com Fel Dome,1,Medium,1
+jermaine,dozier,Male,25 - 45,African-American,19.0,-1.0,F,Possession of Cocaine,1,High,1
+dirrick,stephens,Male,Less than 25,African-American,0.0,0.0,F,Tampering With Physical Evidence,0,Medium,0
+david,washington,Male,25 - 45,African-American,11.0,-1.0,F,Aggravated Battery / Pregnant,0,Low,0
+jared,wanger,Male,25 - 45,Caucasian,2.0,-13.0,F,arrest case no charge,1,Low,1
+donald,brundidge,Male,25 - 45,African-American,1.0,-1.0,F,arrest case no charge,0,Low,0
+deandre,arnold,Male,25 - 45,African-American,1.0,-1.0,M,Battery,1,Low,1
+stevie,johnson,Male,Greater than 45,African-American,8.0,-1.0,F,arrest case no charge,1,Medium,1
+chloe,bridges,Female,Less than 25,Caucasian,3.0,-1.0,M,Battery,1,High,1
+miesha,mills,Female,25 - 45,African-American,3.0,-1.0,F,Robbery / No Weapon,0,Medium,0
+max,metayer,Male,25 - 45,African-American,3.0,-1.0,M,Battery,1,Low,0
+joseph,costino,Male,Greater than 45,Caucasian,0.0,-1.0,F,Battery on a Person Over 65,0,Low,0
+ricardo,britt,Male,25 - 45,Caucasian,0.0,-4.0,F,Cruelty Toward Child,1,Low,1
+velon,owens,Male,25 - 45,African-American,8.0,-1.0,F,"Poss3,4 Methylenedioxymethcath",1,High,1
+densmore,daniels,Male,Less than 25,African-American,0.0,-1.0,F,Aggravated Battery,1,High,1
+donnie,aguilar,Male,25 - 45,Hispanic,0.0,-1.0,M,DUI Property Damage/Injury,0,Low,0
+theodore,blount,Male,25 - 45,African-American,2.0,-1.0,M,Driving License Suspended,0,Medium,0
+michelle,gonzalez,Female,25 - 45,Caucasian,0.0,-1.0,M,Assault,0,Low,0
+tyreak,gant,Male,Less than 25,African-American,2.0,0.0,M,Tresspass Struct/Conveyance,1,High,1
+kevin,carr,Male,25 - 45,Caucasian,0.0,-1.0,M,Battery,0,Medium,0
+amy,fisher,Female,25 - 45,Caucasian,1.0,-1.0,M,Battery,1,Low,1
+antonio,lightbourn,Male,25 - 45,African-American,0.0,-1.0,M,Battery,0,Low,0
+jeremy,lamar,Male,25 - 45,African-American,3.0,-1.0,F,Possession of Cocaine,1,Medium,1
+marlon,greene,Male,25 - 45,Caucasian,10.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+fred,martin,Male,Greater than 45,African-American,9.0,-1.0,F,Possession of Cocaine,1,High,1
+fabian,frazier,Male,Less than 25,African-American,4.0,-3.0,F,Burglary Unoccupied Dwelling,1,Low,1
+arismendy,guareno-corona,Male,Greater than 45,Caucasian,0.0,-1.0,F,Cruelty Toward Child,0,Low,0
+jamsly,georges,Male,25 - 45,African-American,0.0,0.0,M,Battery,0,Low,0
+anderson,carrington,Male,25 - 45,African-American,6.0,-1.0,F,Pos Cannabis W/Intent Sel/Del,0,Medium,0
+wesley,brown,Male,Less than 25,African-American,3.0,-1.0,F,Burglary Unoccupied Dwelling,1,Low,1
+javon,taylor,Male,Less than 25,African-American,6.0,-1.0,F,Uttering a Forged Instrument,1,High,1
+william,larson,Male,Greater than 45,Caucasian,0.0,-1.0,F,Cruelty Toward Child,0,Low,0
+alberto,rodriguez,Male,25 - 45,Hispanic,14.0,-1.0,F,Grand Theft in the 3rd Degree,1,High,1
+juan,rojassoto,Male,25 - 45,Hispanic,0.0,-1.0,F,Tamper With Witness/Victim/CI,1,Low,1
+kyle,thompson,Male,25 - 45,Caucasian,0.0,0.0,F,Grand Theft in the 3rd Degree,0,Low,0
+constance,greene,Male,Greater than 45,Caucasian,4.0,-1.0,F,Grand Theft in the 3rd Degree,1,Low,1
+larry,naville,Male,Greater than 45,Caucasian,1.0,-4.0,F,Possession of Oxycodone,0,Low,0
+syreta,moye,Female,25 - 45,African-American,1.0,-1.0,M,Battery,0,Low,0
+holly,roberts,Female,25 - 45,Caucasian,5.0,-1.0,F,arrest case no charge,1,Medium,1
+jino,desarme,Male,25 - 45,Other,0.0,-1.0,F,Crim Use of Personal ID Info,1,Medium,1
+nikole,curiel,Female,25 - 45,Caucasian,1.0,-1.0,M,Battery,0,Medium,0
+dwight,francis,Male,Greater than 45,Other,20.0,-1.0,F,Felony Petit Theft,1,Low,1
+gasmy,theard,Male,25 - 45,Other,4.0,-30.0,F,Poss Pyrrolidinovalerophenone,1,Low,1
+marshall,higgs,Male,25 - 45,African-American,27.0,0.0,M,Possess Cannabis/20 Grams Or Less,1,High,1
+jamie,flynn,Male,Greater than 45,Caucasian,3.0,-1.0,F,arrest case no charge,1,Low,1
+shawn,jaakson,Male,Less than 25,Caucasian,3.0,-1.0,F,Driving While License Revoked,1,Low,1
+willie,smith,Male,25 - 45,African-American,3.0,-1.0,M,arrest case no charge,1,Medium,1
+quon,gwynn,Male,Less than 25,African-American,1.0,0.0,F,Grand Theft in the 3rd Degree,0,Medium,0
+deborah,demenezes,Female,25 - 45,Caucasian,1.0,-2.0,F,arrest case no charge,0,Low,0
+tarell,rolle,Male,Less than 25,African-American,4.0,-1.0,F,arrest case no charge,1,High,1
+rashidi,nightingale,Male,25 - 45,African-American,7.0,-1.0,F,arrest case no charge,0,Low,0
+brandy,baca,Female,25 - 45,Caucasian,0.0,-3.0,F,Possession of Cocaine,0,Medium,0
+brittany,finder,Female,25 - 45,Caucasian,2.0,-25.0,F,arrest case no charge,1,Medium,1
+glenn,shelton,Male,25 - 45,African-American,9.0,-1.0,F,Poss of Firearm by Convic Felo,1,High,1
+nancy,howard,Female,Greater than 45,Caucasian,0.0,-1.0,F,Battery on a Person Over 65,0,Low,0
+wilnika,wilson,Female,Less than 25,African-American,1.0,-1.0,F,arrest case no charge,0,High,0
+antwan,davis,Male,Less than 25,Caucasian,0.0,0.0,F,Grand Theft in the 3rd Degree,1,High,1
+donald,foster,Male,Greater than 45,African-American,22.0,-1.0,F,Possession of Cocaine,1,High,1
+selena,pruneda,Female,Less than 25,Caucasian,0.0,-1.0,F,Poss Pyrrolidinovalerophenone,1,High,1
+desmond,lee,Male,Greater than 45,Other,0.0,-1.0,F,arrest case no charge,1,Low,1
+shannon,gopher,Male,25 - 45,Caucasian,1.0,-1.0,F,Neglect Child / No Bodily Harm,0,Low,0
+sandy,shaw,Male,Greater than 45,African-American,4.0,-1.0,M,Grand Theft in the 3rd Degree,1,Medium,1
+tony,daniels,Male,25 - 45,African-American,2.0,-1.0,F,Deliver Cocaine,1,Low,1
+varian,powell,Male,25 - 45,African-American,3.0,-1.0,F,Manufacture Cannabis,0,Low,0
+kayla,vantreese,Female,Less than 25,Caucasian,1.0,-1.0,M,Viol Pretrial Release Dom Viol,0,High,0
+alim,rahman,Male,Less than 25,Caucasian,2.0,0.0,M,Driving Under The Influence,0,Low,0
+jason,robertson,Male,25 - 45,African-American,0.0,0.0,M,Battery,1,Low,1
+dwayne,mcgill,Male,25 - 45,African-American,25.0,-1.0,M,Resist/Obstruct W/O Violence,1,High,1
+alan,burga,Male,25 - 45,Hispanic,0.0,-1.0,M,Battery,0,Low,0
+reynaldo,batista,Male,Less than 25,African-American,4.0,-1.0,F,Grand Theft (Motor Vehicle),1,High,1
+christopher,shuman,Male,25 - 45,African-American,1.0,-1.0,M,Criminal Mischief Damage <$200,0,Low,0
+acie,canteen,Male,25 - 45,African-American,3.0,-1.0,F,arrest case no charge,1,Low,1
+shawn,garner,Male,Greater than 45,Caucasian,4.0,0.0,F,"Poss3,4 Methylenedioxymethcath",0,Low,0
+ricardo,sinclair,Male,25 - 45,African-American,0.0,-3.0,F,Grand Theft in the 3rd Degree,0,Low,0
+noel,sequeira,Male,Greater than 45,Caucasian,0.0,0.0,M,Battery,0,Low,0
+shawn,beteza,Male,Greater than 45,Caucasian,0.0,-1.0,F,Battery on a Person Over 65,0,Low,0
+haryidial,lall,Male,Greater than 45,Asian,0.0,-1.0,M,Battery,0,Low,0
+javaughn,kerr,Male,Less than 25,Other,4.0,-1.0,F,Grand Theft in the 3rd Degree,0,High,0
+gerald,mackey,Female,25 - 45,African-American,0.0,0.0,F,Agg Battery Grt/Bod/Harm,0,Low,0

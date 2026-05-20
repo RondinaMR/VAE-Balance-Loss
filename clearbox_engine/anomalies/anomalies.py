@@ -1,0 +1,137 @@
+import scipy.sparse
+
+import numpy as np
+import pandas as pd
+
+from clearbox_engine.dataset.dataset import Dataset
+from clearbox_engine.preprocessor.preprocessor import Preprocessor
+from clearbox_engine.engine.tabular_engine import TabularEngine
+
+
+class Anomalies:
+    dataset: Dataset
+    preprocessor: Preprocessor
+    engine: TabularEngine
+
+    def __init__(
+        self, dataset: Dataset, engine: TabularEngine, preprocessor: Preprocessor = None
+    ):
+        self.dataset = dataset
+        self.preprocessor = (
+            preprocessor if preprocessor is not None else Preprocessor(dataset)
+        )
+        self.engine = engine
+
+    def detect(self, n: int = 10):
+        preprocessed_data = self.preprocessor.transform(self.dataset.get_x())
+        reconstruction_error = self.engine.reconstruction_error(preprocessed_data)
+
+        anomaly_instances = np.argsort(reconstruction_error)[::-1][:n]
+
+        anomaly_features = self.get_anomaly_features(
+            self.dataset.get_x().iloc[anomaly_instances]
+        )
+
+        features_values = []
+        for anomaly_index in anomaly_instances:
+            features = []
+            for value in self.dataset.get_x().iloc[anomaly_index].values.tolist():
+                features.append(
+                    "NaN"
+                    if pd.isnull(value)
+                    else value
+                    if isinstance(value, str)
+                    else str(value)
+                    if isinstance(value, bool)
+                    else float(value)
+                    if isinstance(value, float)
+                    else int(value)
+                )
+            features_values.append(features)
+
+        anomalies = {
+            "values": features_values,
+            "anomaly_probabilities": anomaly_features,
+        }
+
+        return anomalies
+
+    def get_anomaly_features(self, X: pd.DataFrame) -> list:
+        preprocessed_data = self.preprocessor.transform(X)
+        recon_x, _, _ = self.engine.apply(preprocessed_data)
+
+        n_ordinal_features = (
+            self.preprocessor.get_features_sizes()[0][0]
+            if self.preprocessor.get_features_sizes()[0]
+            else 0
+        )
+        categorical_features_sizes = self.preprocessor.get_features_sizes()[1]
+
+        ordinal_anomaly_features = np.zeros(
+            (preprocessed_data.shape[0], n_ordinal_features)
+        )
+
+        for i in range(n_ordinal_features):
+            if isinstance(preprocessed_data[:, i], scipy.sparse.csr_matrix):
+                converted_input = preprocessed_data[:, i].toarray().reshape(1, -1)[0]
+            else:
+                converted_input = preprocessed_data[:, i]
+            ordinal_anomaly_features[:, i] = np.exp(
+                -(((converted_input - recon_x[:, i]) / 0.1) ** 2) / 2.0
+            )
+
+        categorical_anomaly_features = np.zeros(
+            (
+                preprocessed_data.shape[0],
+                preprocessed_data.shape[1] - n_ordinal_features,
+            )
+        )
+        view_decoded = recon_x[:, n_ordinal_features:]
+
+        for i in range(preprocessed_data.shape[0]):
+            w2 = 0  # index categorical label in preprocessed space
+            w3 = 0  # index categorical feature
+            features = preprocessed_data[i, n_ordinal_features:] > 0
+            if isinstance(features, scipy.sparse.csr_matrix):
+                features = features.toarray().reshape(1, -1)[0]
+
+            for w in categorical_features_sizes:
+                if (features[w2 : w2 + w]).sum() == 0:
+                    # it means that there's a NaN or an unknown
+                    categorical_anomaly_features[i, w3] = 0.0
+                else:
+                    categorical_anomaly_features[i, w3] = view_decoded[
+                        i, w2 + features[w2 : w2 + w].argmax()
+                    ]
+                w2 += w
+                w3 += 1
+
+        anomaly_features = pd.DataFrame()
+        categorical_features = []
+        if categorical_features_sizes:
+            categorical_features = self.preprocessor.transformer.transformers[-1][2]
+        ordinal_index = 0
+        categorical_index = 0
+        discarded_columns = [i[0] for i in self.preprocessor.discarded[0]]
+        for i, value in enumerate(self.dataset.x_columns()):
+            if value not in discarded_columns:
+                if value not in categorical_features:
+                    anomaly_features[value] = np.asarray(
+                        [
+                            np.format_float_positional(value, precision=4)
+                            for value in ordinal_anomaly_features[:, ordinal_index]
+                        ]
+                    )
+                    ordinal_index += 1
+                else:
+                    anomaly_features[value] = np.asarray(
+                        [
+                            np.format_float_positional(value, precision=4)
+                            for value in categorical_anomaly_features[
+                                :, categorical_index
+                            ]
+                        ]
+                    )
+                    categorical_index += 1
+
+        return anomaly_features.values.tolist()

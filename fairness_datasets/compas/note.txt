@@ -1,0 +1,2 @@
+decile_score column name duplicated: trasnformed into decile_score1 and decile_score2
+priors_count column name duplicated: trasnformed into priors_count1 and priors_count2

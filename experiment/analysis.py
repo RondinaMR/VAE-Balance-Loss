@@ -25,6 +25,8 @@ def compare_imbalance(original, synthetic):
 def read_experiments(folder:str = None):
     if folder is None:
         folder = 'synthetic-datasets/01_adult/'
+    if not folder.endswith('/'):
+        folder = folder + '/'
     directories = os.listdir(folder)
 
     experiments = []

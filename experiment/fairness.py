@@ -95,12 +95,12 @@ def binary_fmetrics_improvement(experiment, fair_column_mapping):
                 exp_df[column_name] = exp_df[column_name].map(column_info['mapping'])
                 
                 # # Check for NaN values after mapping
-                # nan_mask_after = exp_df[column_name].isna()
-                # if nan_mask_after.any():
-                #     nan_count = nan_mask_after.sum()
-                #     print(f"Warning: Column '{column_name}' contains NaN values after mapping. Removing {nan_count} rows with NaN values.")
-                #     exp_df = exp_df[~nan_mask_after]   
-                #     sd_with_nan.append((dataset, experiment['parameters']['time'], column_name, 'after_mapping', nan_count))     
+                nan_mask_after = exp_df[column_name].isna()
+                if nan_mask_after.any():
+                    nan_count = nan_mask_after.sum()
+                    print(f"Warning: Column '{column_name}' contains NaN values after mapping. Removing {nan_count} rows with NaN values.")
+                    exp_df = exp_df[~nan_mask_after]   
+                    sd_with_nan.append((dataset, experiment['parameters']['time'], column_name, 'after_mapping', nan_count))     
                 
         columns_to_keep = [target_column] + list(fair_column_mapping.keys())
         exp_df = exp_df[columns_to_keep]

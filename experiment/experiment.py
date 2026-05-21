@@ -5,7 +5,6 @@ import time
 import pandas as pd
 from data_framework.imbalance.imbalance import Imbalance
 # from data_framework.data_quality.quality import Quality
-from clearbox_engine.engine.tabular_engine_simpsonized import TabularEngineSimpsonized
 from clearbox_engine.engine.tabular_engine_term import TabularEngineTerm
 from clearbox_engine.engine.tabular_engine_weight import TabularEngineWeight
 import json
@@ -370,8 +369,8 @@ class Experiment:
         engine_parameters["folder_path"] = self.experiment_output_path
         if self.loss_model == 'vanilla':
             engine = TabularEngine(**engine_parameters)
-        elif self.loss_model == 'simpsonized':
-            engine = TabularEngineSimpsonized(**engine_parameters)
+        # elif self.loss_model == 'simpsonized':
+        #     engine = TabularEngineSimpsonized(**engine_parameters)
         elif self.loss_model == 'term':
             engine = TabularEngineTerm(**engine_parameters)
         elif self.loss_model == 'weight':

@@ -75,7 +75,7 @@ if __name__ == "__main__":
     split_seeds = [0, 42 , 34192064, 75637324, 93015292, 134548530, 213281329, 222198395, 261053260, 330351956, 401612339, 411122582, 421541749, 428703832, 445596379, 563366835, 564253876, 566860962, 727205575, 727342120, 737841153, 787158527, 844424401, 860894124, 860982556, 866116827, 906595416, 915945376, 917004895, 963380211]
     repetitions = len(split_seeds)
     # adult, south_german_credit, compas_score_two_years
-    datasets = [compas_score_two_years]
+    datasets = [adult]
     # Adult 103 [80,50]       → hidden=78%, latent=49%
     # South German Credit 70 [48,32] → hidden=66%, latent=44%
     # Compas ~654 [467]   → Will be overwritten to [int(x_shape[0]/1.4)] due to high dimensionality

@@ -92,7 +92,7 @@ class TabularEngineWeight(EngineInterface):
         self.architecture["categorical_feature_sizes"] = categorical_feature_sizes
 
         self.hashed_architecture = json.dumps(self.architecture)
-        self.logger = logging.getLogger('engine.tabular_engine_simpsonized.TabularEngineWeight')
+        self.logger = logging.getLogger('engine.tabular_engine_weight.TabularEngineWeight')
         self.logger.info('creating an instance of TabularEngineWeight')
         self.logger.info('ordinal_feature_sizes: ' + str(ordinal_feature_sizes))
         self.logger.info('categorical_feature_sizes: ' + str(categorical_feature_sizes))

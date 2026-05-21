@@ -1,4 +1,4 @@
-name: clearbox-engine
+name: vae-balance-loss
 channels:
   - conda-forge
   - defaults

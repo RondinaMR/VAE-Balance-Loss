@@ -5,9 +5,9 @@ rng = np.random.default_rng(42)
 import pandas as pd
 import scipy
 
-from clearbox_engine.dataset.dataset import Dataset
-from clearbox_engine.engine.tabular_engine import TabularEngine
-from clearbox_engine.preprocessor.preprocessor import Preprocessor
+from cbx_engine.dataset.dataset import Dataset
+from cbx_engine.engine.tabular_engine import TabularEngine
+from cbx_engine.preprocessor.preprocessor import Preprocessor
 
 
 class Synthesizer(metaclass=abc.ABCMeta):

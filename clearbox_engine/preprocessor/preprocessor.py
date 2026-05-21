@@ -11,7 +11,7 @@ import logging
 # create logger
 module_logger = logging.getLogger('engine.preprocessor')
 
-from clearbox_engine import (
+from cbx_engine import (
     Dataset,
     OrdinalTransformer,
     CategoricalTransformer,

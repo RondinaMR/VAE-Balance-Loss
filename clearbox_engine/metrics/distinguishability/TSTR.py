@@ -9,7 +9,7 @@ from sklearn.metrics import (
     max_error,
 )
 
-from clearbox_engine import Dataset, Preprocessor
+from cbx_engine import Dataset, Preprocessor
 
 
 class TSTRScore:

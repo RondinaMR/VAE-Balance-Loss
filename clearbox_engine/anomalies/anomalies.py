@@ -3,9 +3,9 @@ import scipy.sparse
 import numpy as np
 import pandas as pd
 
-from clearbox_engine.dataset.dataset import Dataset
-from clearbox_engine.preprocessor.preprocessor import Preprocessor
-from clearbox_engine.engine.tabular_engine import TabularEngine
+from cbx_engine.dataset.dataset import Dataset
+from cbx_engine.preprocessor.preprocessor import Preprocessor
+from cbx_engine.engine.tabular_engine import TabularEngine
 
 
 class Anomalies:

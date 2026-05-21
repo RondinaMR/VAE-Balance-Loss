@@ -1,12 +1,12 @@
 import logging
 import os
-from clearbox_engine import Dataset, Preprocessor, TabularEngine
+from cbx_engine import Dataset, Preprocessor, TabularEngine
 import time
 import pandas as pd
 from data_framework.imbalance.imbalance import Imbalance
 # from data_framework.data_quality.quality import Quality
-from clearbox_engine.engine.tabular_engine_term import TabularEngineTerm
-from clearbox_engine.engine.tabular_engine_weight import TabularEngineWeight
+from cbx_engine.engine.tabular_engine_term import TabularEngineTerm
+from cbx_engine.engine.tabular_engine_weight import TabularEngineWeight
 import json
 from sklearn.model_selection import train_test_split
 import numpy as np
@@ -402,7 +402,7 @@ class Experiment:
         print(f"b2.shape: {b2.shape}")
 
 
-        from clearbox_engine import LabeledSynthesizer, UnlabeledSynthesizer
+        from cbx_engine import LabeledSynthesizer, UnlabeledSynthesizer
         tic['synthesizer'] = time.perf_counter()
         if self.noy:
             self.logger.debug(f'Starting Unlabeled Synthesizer...')
@@ -419,7 +419,7 @@ class Experiment:
         #TODO Implement a progress bar for the following operations
 
         #NOTE RECONSTRUCTION ERROR
-        from clearbox_engine import ReconstructionError
+        from cbx_engine import ReconstructionError
         self.logger.debug('Starting reconstruction error...')
         tic['reconstruction_error'] = time.perf_counter()
         re = ReconstructionError(train_dataset, synthetic_dataset, engine, preprocessor).get()
@@ -427,7 +427,7 @@ class Experiment:
         self.logger.debug(f'...reconstruction error done in {toc["reconstruction_error"]-tic["reconstruction_error"]} s.')
         self.logger.info(f'Reconstruction error:\n{re}')
 
-        from clearbox_engine import PrivacyScore
+        from cbx_engine import PrivacyScore
         self.logger.debug('Starting privacy score...')
         tic['privacy_score'] = time.perf_counter()
         privacy_metrics = PrivacyScore(train_dataset, synthetic_dataset, validation_dataset, preprocessor, parallel=False).get()
@@ -557,7 +557,7 @@ class Experiment:
         #     membership_inference_test['membership_inference_mean_risk_score']))
 
         #NOTE DETECTION SCORE
-        from clearbox_engine import DetectionScore
+        from cbx_engine import DetectionScore
         self.logger.debug('Starting DetectionScore...')
         tic['detection_score'] = time.perf_counter()
         detection_score = DetectionScore(train_dataset, synthetic_dataset, preprocessor).get()
@@ -566,7 +566,7 @@ class Experiment:
         self.logger.info(f'Detection Score:\n{detection_score}')
 
         #NOTE MUTUAL INFORMATION
-        from clearbox_engine import MutualInformation
+        from cbx_engine import MutualInformation
         self.logger.debug('Starting Mutual Information...')
         tic['mutual_information'] = time.perf_counter()
         mi = MutualInformation(train_dataset, synthetic_dataset).get()
@@ -580,7 +580,7 @@ class Experiment:
         #     print()
 
         #NOTE FEATURES COMPARISON
-        from clearbox_engine import FeaturesComparison
+        from cbx_engine import FeaturesComparison
         self.logger.debug('Starting Features Comparison...')
         tic['features_comparison'] = time.perf_counter()
         fc = FeaturesComparison(train_dataset, synthetic_dataset, preprocessor).get()
@@ -589,7 +589,7 @@ class Experiment:
         self.logger.info(f'Features comparison:\n{fc}')
 
         #NOTE QUERY POWER
-        from clearbox_engine import QueryPower
+        from cbx_engine import QueryPower
         self.logger.debug('Starting Query Power...')
         tic['query_power'] = time.perf_counter()
         qp = QueryPower(train_dataset, synthetic_dataset, preprocessor).get()
@@ -629,7 +629,7 @@ class Experiment:
             synthetic_dataset = Dataset.from_csv(**parameters["from_csv"]["synth"])      
 
         #NOTE TSTR SCORE
-        from clearbox_engine import TSTRScore
+        from cbx_engine import TSTRScore
         self.logger.debug('Starting TSTRScore...')
         tic['tstr_score'] = time.perf_counter()
         TSTR_score = TSTRScore(original_dataset = train_dataset, synthetic_dataset=synthetic_dataset, validation_dataset=validation_dataset, preprocessor=preprocessor).get()

@@ -1,6 +1,6 @@
 import pytest
 
-from clearbox_engine import Dataset
+from cbx_engine import Dataset
 
 # TODO: Add fixtures for dataset with boolean columns, datetime columns, only categorical columns
 

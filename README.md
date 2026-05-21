@@ -25,7 +25,7 @@ Experiments are run on **3 fairness benchmark datasets** with **30 random seeds*
 ## Repository structure
 
 ```
-├── clearbox_engine/        # Core VAE engine (JAX/Flax)
+├── cbx_engine/        # Core VAE engine (JAX/Flax)
 │   ├── VAE/                # VAE models: vanilla, weight, term
 │   ├── engine/             # TabularEngine wrappers
 │   ├── synthesizer/        # LabeledSynthesizer / UnlabeledSynthesizer

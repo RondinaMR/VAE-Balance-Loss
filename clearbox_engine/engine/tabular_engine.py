@@ -11,13 +11,13 @@ from flax import serialization
 from flax.training import train_state
 from tqdm import trange
 
-from clearbox_engine.VAE.tabular_vae import TabularVAE, train_step, eval
+from cbx_engine.VAE.tabular_vae import TabularVAE, train_step, eval
 from .engine import EngineInterface
 
 import logging
 
 # create logger
-module_logger = logging.getLogger('clearbox-engine.tabular_engine')
+module_logger = logging.getLogger('cbx-engine.tabular_engine')
 
 
 class TabularEngine(EngineInterface):
@@ -92,7 +92,7 @@ class TabularEngine(EngineInterface):
         self.architecture["categorical_feature_sizes"] = categorical_feature_sizes
 
         self.hashed_architecture = json.dumps(self.architecture)
-        self.logger = logging.getLogger('clearbox-engine.tabular-engine.TabularEngine')
+        self.logger = logging.getLogger('cbx-engine.tabular-engine.TabularEngine')
         self.logger.info('creating an instance of TabularEngine')
 
     def apply(self, x: np.ndarray, y: np.ndarray = None) -> Tuple:

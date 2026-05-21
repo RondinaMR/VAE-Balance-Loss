@@ -5,8 +5,8 @@ import numpy as np
 from pandas.testing import assert_frame_equal
 from numpy.testing import assert_allclose
 
-from clearbox_engine.preprocessor.preprocessor import Preprocessor
-from clearbox_engine.dataset.dataset import Dataset
+from cbx_engine.preprocessor.preprocessor import Preprocessor
+from cbx_engine.dataset.dataset import Dataset
 
 from pytest_fixtures import (
     ames_dataset,

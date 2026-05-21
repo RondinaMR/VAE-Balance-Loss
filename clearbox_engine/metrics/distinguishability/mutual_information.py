@@ -2,7 +2,7 @@ import pandas as pd
 
 from sklearn.metrics.cluster import normalized_mutual_info_score
 
-from clearbox_engine import Dataset, Preprocessor
+from cbx_engine import Dataset, Preprocessor
 
 
 class MutualInformation:

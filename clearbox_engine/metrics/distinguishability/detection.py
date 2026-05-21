@@ -3,7 +3,7 @@ import numpy as np
 
 from sklearn.metrics import accuracy_score, roc_auc_score
 
-from clearbox_engine import Dataset, Preprocessor
+from cbx_engine import Dataset, Preprocessor
 
 
 class DetectionScore:
@@ -73,7 +73,7 @@ class DetectionScore:
 
         preprocessor = Preprocessor(dataset)
 
-        # Starting with Clearbox AI
+        # Starting with cbx AI
         Y = dataset.get_y().values
         
         # split data into train and test sets

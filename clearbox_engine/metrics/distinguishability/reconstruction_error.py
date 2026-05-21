@@ -2,7 +2,7 @@ import numpy as np
 
 from sklearn.preprocessing import OneHotEncoder
 
-from clearbox_engine import Dataset, Preprocessor, TabularEngine
+from cbx_engine import Dataset, Preprocessor, TabularEngine
 
 
 class ReconstructionError:

@@ -6,12 +6,12 @@ import numpy as np
 from pandas.testing import assert_frame_equal
 from numpy.testing import assert_allclose
 
-from clearbox_engine.preprocessor.preprocessor import Preprocessor
-from clearbox_engine.dataset.dataset import Dataset
-from clearbox_engine.metrics.distinguishability.TSTR import TSTRScore
-from clearbox_engine.metrics.distinguishability.detection import DetectionScore
-from clearbox_engine.metrics.distinguishability.query_power import QueryPower
-from clearbox_engine.metrics.distinguishability.mutual_information import MutualInformation
+from cbx_engine.preprocessor.preprocessor import Preprocessor
+from cbx_engine.dataset.dataset import Dataset
+from cbx_engine.metrics.distinguishability.TSTR import TSTRScore
+from cbx_engine.metrics.distinguishability.detection import DetectionScore
+from cbx_engine.metrics.distinguishability.query_power import QueryPower
+from cbx_engine.metrics.distinguishability.mutual_information import MutualInformation
 
 from pytest_fixtures import (
     ames_dataset,

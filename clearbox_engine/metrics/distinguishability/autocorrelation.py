@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import numpy as np
 
-from clearbox_engine import Dataset, Preprocessor
+from cbx_engine import Dataset, Preprocessor
 
 
 def _autocorr(x: pd.Series):

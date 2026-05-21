@@ -1,6 +1,6 @@
 import pandas as pd
 
-from clearbox_engine import Dataset, Preprocessor
+from cbx_engine import Dataset, Preprocessor
 
 
 class FeaturesComparison:

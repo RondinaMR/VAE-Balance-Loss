@@ -11,7 +11,7 @@ from .vae import VAEInterface
 import logging
 
 # create logger
-module_logger = logging.getLogger('clearbox-engine.tabular_vae')
+module_logger = logging.getLogger('cbx-engine.tabular_vae')
 
 def jax_log_debug(fmt: str, *args, **kwargs):
     jax.debug.callback(
@@ -86,7 +86,7 @@ class TabularVAE(VAEInterface, nn.Module):
             self.ordinal_feature_sizes,
             self.categorical_feature_sizes,
         )
-        self.logger = logging.getLogger('clearbox-engine.tabular_vae.TabularVAE')
+        self.logger = logging.getLogger('cbx-engine.tabular_vae.TabularVAE')
 
     def __call__(self, x: np.ndarray, y: np.ndarray = None) -> Tuple:
         mean, logvar = self.encoder(x, y)

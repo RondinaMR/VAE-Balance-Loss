@@ -5,7 +5,7 @@ import numpy as np
 
 from typing import List
 
-from clearbox_engine import TabularEngine
+from cbx_engine import TabularEngine
 
 
 def learning_rule(training_rows_size, num_cols=30, task='regression'):

@@ -11,7 +11,7 @@ from flax import serialization
 from flax.training import train_state
 from tqdm import trange
 
-from clearbox_engine.VAE.tabular_vae_term import TabularVAETerm, eval, train_step
+from cbx_engine.VAE.tabular_vae_term import TabularVAETerm, eval, train_step
 from .engine import EngineInterface
 
 import logging

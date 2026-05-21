@@ -68,18 +68,17 @@ conda env create -f environment.yml
 conda activate <env-name>
 ```
 
-**2. Build and install the engine (includes Cython extension compilation):**
+**2. Install pip dependencies and JAX CUDA backend:**
 
 ```shell
 bash install-cuda.sh
 ```
 
 This script:
-1. Cleans any previous build artifacts
-2. Installs pip dependencies from `requirements.txt`
-3. Compiles the Cython extension (`gower_matrix_c`)
-4. Builds and installs the `clearbox_engine` wheel
-5. Installs `jax[cuda12_pip]`
+1. Installs pip dependencies from `requirements.txt`
+2. Installs `jax[cuda12_pip]`
+
+> The Cython extension (`gower_matrix_c`) is compiled automatically at first run via `pyximport`.
 
 ---
 

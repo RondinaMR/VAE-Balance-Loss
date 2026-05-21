@@ -10,12 +10,12 @@ This repository contains the full source code, datasets, and experiment scripts 
 
 ## Overview
 
-We propose and evaluate three VAE-based loss functions for tabular synthetic data generation, studied under the lens of the Simpson's paradox effect on sensitive features:
+We propose and evaluate three VAE-based loss functions for tabular synthetic data generation:
 
 | Loss model | Description |
 |---|---|
 | `vanilla` | Standard VAE loss (baseline) |
-| `weight` | Reconstruction loss re-weighted by a Simpson-aware exponential term per sensitive feature |
+| `weight` | Reconstruction loss re-weighted by a Simpson-based exponential term per sensitive feature |
 | `term` | An explicit balance penalty term added to the VAE loss, scaled per sensitive feature |
 
 Experiments are run on **3 fairness benchmark datasets** with **30 random seeds** each, measuring the trade-off between balance, fairness (Statistical Parity, Disparate Impact), utility (TSTR accuracy), and privacy (DCR).
@@ -25,7 +25,7 @@ Experiments are run on **3 fairness benchmark datasets** with **30 random seeds*
 ## Repository structure
 
 ```
-├── cbx_engine/        # Core VAE engine (JAX/Flax)
+├── cbx_engine/             # Core VAE engine (JAX/Flax)
 │   ├── VAE/                # VAE models: vanilla, weight, term
 │   ├── engine/             # TabularEngine wrappers
 │   ├── synthesizer/        # LabeledSynthesizer / UnlabeledSynthesizer

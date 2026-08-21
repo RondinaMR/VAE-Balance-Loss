@@ -5,9 +5,17 @@ from experiment.utils import imbalance_statistics
 from experiment.fairness import binary_fmetrics_improvement
 from experiment.fairness import normalized_mutual_information
 import os
+import math
 import logging
 logger = logging.getLogger(__name__)
 from tqdm import tqdm
+
+SPD_YLIM = {
+    '01_adult': (-0.15, 0.25),
+    '03_south-german-credit': (-0.10, 0.25),
+    '04_compas-two-years': (-0.36, 0.30),
+}
+
 
 def separate_pathtojson_by_simpsonweight(df):
     df_wd0 = df[df['simpson_weight'] == 0]
@@ -99,6 +107,26 @@ def loss_plot_experiments(df, folder):
 
 
 
+def drop_non_finite(values, labels, metric, epochs):
+    """Drop NaN and infinite values from each boxplot series.
+
+    matplotlib computes the percentiles over the whole series, so a single NaN makes the entire box disappear without raising anything. 
+    This happens for instance when the synthetic dataset of one seed contains no row of the privileged group, which leaves the statistical parity difference undefined, or when the disparate impact divides by zero.
+    Discarding those points keeps the box, drawn over the remaining seeds, and the number of discarded ones is reported so it can be stated alongside the figure.
+    """
+    cleaned = []
+    for label, series in zip(labels, values):
+        finite = [value for value in series if value is not None and math.isfinite(value)]
+        dropped = len(series) - len(finite)
+        if dropped:
+            message = (f'{metric} (epochs={epochs}), {label}: {dropped} of {len(series)} values are '
+                       f'NaN or infinite and are excluded, the box is drawn over {len(finite)} seeds')
+            logger.warning(message)
+            print(f'  [plot_metrics] {message}')
+        cleaned.append(finite)
+    return cleaned
+
+
 def plot_metrics(df, folder):
     logger.info('Plotting metrics...')
     print('Plotting metrics...')
@@ -125,6 +153,8 @@ def plot_metrics(df, folder):
         with open(first_experiment_path) as file:
             first_exp = json.load(file)
             fair_column_mappings = first_exp['parameters']['fair_column_mappings']
+            # imbalance_loss_final sums (1 - Simpson) over the sensitive features, so the number of those features is the upper bound of its scale: 3 for adult and compas, 6 for south german credit.
+            n_sensitive_features = len(first_exp['parameters']['sensitive_features'])
         
         # Verify that all experiments have the same fair_column_mappings
         for exp_path in edf['path_to_json']:
@@ -192,8 +222,8 @@ def plot_metrics(df, folder):
 
         for metric, values in metrics.items():
             fig, ax = plt.subplots(figsize=(12, 8))  # Increase the horizontal width
-            ax.boxplot(values, labels=labels)
-            ax.set_ylabel(metric.replace('_', ' ').title(), fontsize=26)
+            ax.boxplot(drop_non_finite(values, labels, metric, epochs), labels=labels)
+            ax.set_ylabel(metric.replace('_', ' ').title().replace('Statistical Parity Diff', 'S.P.D.'), fontsize=26)
             ax.set_xlabel('Model and Magnitude', fontsize=26)
             # ax.set_title(f'{metric.replace("_", " ").title()} for Different Models and Magnitude (epochs: {epochs}; batch size: {batch_string})', fontsize=16)
             ax.tick_params(axis='x', labelsize=22)  # Increment the font size of the x ticks
@@ -201,11 +231,15 @@ def plot_metrics(df, folder):
             ax.tick_params(axis='y', labelsize=22)  # Increment the font size of the y ticks
             # Set y-axis limits for statistical parity difference plots
             if 'statistical_parity' in metric:
-                # Adult: -0.15, 0.25; German: -0.1, 0.25
-                ax.set_ylim(-0.15, 0.25)
+                # Per-dataset scale: within a dataset it must stay identical across attributes and epoch settings, which is the comparison the figures are read for.
+                # Compas needs a wider window since its positive class is Low only (observed [-0.350, +0.296]) than adult [-0.142, +0.204] and german [-0.063, +0.239].
+                ylim = next((v for k, v in SPD_YLIM.items() if k in folder), None)
+                if ylim is not None:
+                    ax.set_ylim(*ylim)
                 ax.axhline(y=0.0, color='red', linestyle='--', linewidth=1)
             elif 'imbalance_loss_final' in metric:
-                ax.set_ylim(-0.1, 3.1)
+                # The scale is the metric range, not a display choice, so it follows the dataset instead of being fixed at 3.
+                ax.set_ylim(-0.1, n_sensitive_features + 0.1)
             elif 'tstr_accuracy_diff' in metric:
                 ax.set_ylim(-0.21, 0.11)
                 ax.axhline(y=0.0, color='red', linestyle='--', linewidth=1)

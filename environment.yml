@@ -1,4 +1,4 @@
-name: vae-balance-loss
+name: clearbox-engine
 channels:
   - conda-forge
   - defaults
@@ -10,12 +10,10 @@ dependencies:
   - jax
   - jupyter
   - loguru
-  - matplotlib
   - numpy
   - optax
   - pandas
   - pydantic
-  - prettytable
   - pytest
   - pytest-cov
   - pytest-lazy-fixture
@@ -24,7 +22,5 @@ dependencies:
   - tqdm
   - typing
   - xgboost
-  - aif360
-  - pip
-  - pip:
-    - pydateinfer
+  - prettytable
+  - scikit-posthocs

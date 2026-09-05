@@ -174,3 +174,5 @@ cython_debug/
 # *_TRAIN.csv
 # *_TEST.csv
 
+# OS files
+.DS_Store

@@ -122,13 +122,16 @@ the `experiment.json` files; the CSVs under `datasets/` are additionally read
 by `experiment/fairness.py` when the fairness metrics are recomputed from
 scratch.
 
-To regenerate the statistics and the LaTeX tables without re-running any
+To regenerate the four LaTeX tables of the paper without re-running any
 experiment:
 
 ```shell
-python experiment/statistical_validation_p.py
-python experiment/statistical_export_p.py
+python experiment/statistical_export_p.py --outdir experiment/statistical_validation
 ```
+
+This takes a few minutes: the `spd` table re-reads every synthetic and
+training CSV. Use `--metrics` and `--datasets` to build a subset, and
+`--outdir` to change the destination.
 
 
 ---

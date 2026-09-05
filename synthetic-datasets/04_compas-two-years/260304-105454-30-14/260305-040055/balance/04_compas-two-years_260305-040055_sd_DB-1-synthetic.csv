@@ -1,0 +1,8 @@
+Feature,Gini,Shannon,Simpson,I.I.R.
+sex,1.0,1.0,1.0,0.96
+age_cat,1.0,1.0,1.0,0.88
+race,0.98,0.97,0.88,0.38
+c_charge_degree,0.92,0.94,0.85,0.56
+is_recid,1.0,1.0,0.99,0.9
+score_text,0.89,0.91,0.74,0.34
+two_year_recid,0.99,0.99,0.98,0.83

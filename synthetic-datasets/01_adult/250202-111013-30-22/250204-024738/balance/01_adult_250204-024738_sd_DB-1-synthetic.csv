@@ -1,0 +1,10 @@
+Feature,Gini,Shannon,Simpson,I.I.R.
+work_class,0.51,0.51,0.13,0.0
+education,0.86,0.73,0.28,0.0
+marital_status,0.76,0.63,0.31,0.0
+occupation,0.96,0.89,0.65,0.0
+relationship,0.86,0.81,0.51,0.05
+race,0.98,0.98,0.92,0.55
+sex,0.99,1.0,0.99,0.87
+native_country,0.98,0.94,0.49,0.1
+income,0.75,0.81,0.6,0.34

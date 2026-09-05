@@ -41,7 +41,7 @@ Experiments are run on **3 fairness benchmark datasets** with **30 random seeds*
 │   └── utils.py
 ├── data_framework/         # Imbalance and data quality utilities
 ├── fairness_datasets/      # Raw input datasets (see Datasets section)
-├── synthetic-datasets/     # Generated outputs (created by usage.py)
+├── synthetic-datasets/     # Per-run results of the published experiments
 ├── tests/                  # Unit tests
 ├── usage.py                # Main experiment entry point
 ├── environment.yml         # Conda environment definition
@@ -94,6 +94,45 @@ All datasets are publicly available. The `fairness_datasets/` folder already con
 
 ---
 
+## Experiment results
+
+The results of every experiment reported in the paper are included in this
+repository, under `synthetic-datasets/`: 17,400 files covering the three
+datasets above, one folder per run.
+
+```
+synthetic-datasets/<dataset>/<group>/<run>/
+├── experiment.json     # parameters and all computed metrics
+├── epoch-losses.csv    # per-epoch training losses
+├── epoch_losses.pdf    # the same losses, plotted
+├── datasets/
+│   ├── *_od_TRAIN.csv  # real training split fed to the VAE
+│   ├── *_od_TEST.csv   # real holdout split
+│   └── *_sd.csv        # synthetic dataset produced by that run
+└── balance/            # per-run balance and frequency tables
+```
+
+The three experiment groups are the ones listed in `DATASET_RUNS` in
+`experiment/statistical_validation_p.py`.
+
+Model checkpoints (`states/*.npy`), the plots in `viz/` and the training logs
+are **not** published: they weigh around 37 GB and are not needed to reproduce
+any number in the paper. Every statistic reported in the paper is derived from
+the `experiment.json` files; the CSVs under `datasets/` are additionally read
+by `experiment/fairness.py` when the fairness metrics are recomputed from
+scratch.
+
+To regenerate the statistics and the LaTeX tables without re-running any
+experiment:
+
+```shell
+python experiment/statistical_validation_p.py
+python experiment/statistical_export_p.py
+```
+
+
+---
+
 ## Reproducing the experiments
 
 Open `usage.py` and configure the top of the `__main__` block:
@@ -124,7 +163,8 @@ Each individual experiment produces a timestamped subfolder containing:
 └── experiment.json    # Full experiment parameters and results
 ```
 
-After all repetitions complete, `analysis.py` aggregates all `experiment.json` files into a summary DataFrame and generates comparison plots.
+After all repetitions complete, `analysis.py` aggregates all `experiment.json` files into a summary DataFrame and generates comparison plots. The copies published in this repository omit `states/`, `viz/` and `logs/` — see [Experiment results](#experiment-results).
+
 
 ---
 

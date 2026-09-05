@@ -147,8 +147,22 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# experiment data
-/synthetic-datasets
+# experiment data: Only the artefacts from the runs described in the paper are published.
+# Everything under ‘synthetic-datasets/’ is ignored...
+/synthetic-datasets/**
+# ...except for the directories (these are used to move Git down the tree)...
+!/synthetic-datasets/**/
+# ...and the files needed to reproduce the results:
+!/synthetic-datasets/README.md
+!/synthetic-datasets/**/experiment.json
+!/synthetic-datasets/**/epoch-losses.csv
+!/synthetic-datasets/**/epoch_losses.pdf
+!/synthetic-datasets/**/datasets/*.csv
+!/synthetic-datasets/**/balance/*.csv
+# Never published, whatever a local run produces:
+/synthetic-datasets/**/states/
+/synthetic-datasets/**/logs/
+/synthetic-datasets/**/_old_logs/
 
 #Numpy data
 *.npy
